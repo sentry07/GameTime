@@ -1,0 +1,18 @@
+[ GameTimeX NHL v1.0.14.2 ]
+
+=============================
+ What's new in this version:
+=============================
+Rebuilt executable because Avast was reporting a virus.
+
+
+
+=================
+ PREVIOUS BUILDS
+=================
+
+v1.0.14.1
+-----------------
+Changed executable to GameTimeX.
+Removed Team Injury stats until I find a new source. TSN fucked us.
+Extended Goalie array to fix Edmonton's giant roster.

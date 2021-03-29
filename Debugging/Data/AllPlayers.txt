@@ -1,0 +1,686 @@
+Team|Num|Pos|Name|GP|G|A|P|+/-|PIM|PP|SH|GW|S|S%
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Anaheim|10|R|Corey Perry|13|11|4|15|11|25|4|0|1|42|26.20
+Anaheim|15|C|Ryan Getzlaf|13|3|11|14|4|17|0|0|1|33|9.10
+Anaheim|17|C|Ryan Kesler|14|3|6|9|-3|21|1|0|1|38|7.90
+Anaheim|4|D|Cam Fowler|14|1|8|9|5|0|0|0|1|13|7.70
+Anaheim|45|D|Sami Vatanen|14|3|5|8|-1|16|3|0|1|20|15.00
+Anaheim|39|L|Matt Beleskey|14|6|0|6|2|12|2|0|1|41|14.60
+Anaheim|33|R|Jakob Silfverberg|14|0|5|5|0|4|0|0|0|28|0.00
+Anaheim|12|R|Devante Smith-Pelly|14|3|2|5|3|0|0|1|1|23|13.00
+Anaheim|23|D|Francois Beauchemin|14|0|4|4|3|4|0|0|0|19|0.00
+Anaheim|44|C|Nate Thompson|14|1|3|4|0|20|0|0|1|14|7.10
+Anaheim|7|C|Andrew Cogliano|14|1|3|4|1|4|0|1|0|25|4.00
+Anaheim|19|L|Patrick Maroon|6|0|4|4|-1|2|0|0|0|11|0.00
+Anaheim|38|C|William Karlsson|11|2|1|3|4|2|0|0|1|15|13.30
+Anaheim|47|D|Hampus Lindholm|14|1|2|3|8|8|0|0|0|21|4.80
+Anaheim|67|C|Rickard Rakell|9|0|2|2|1|4|0|0|0|12|0.00
+Anaheim|18|R|Tim Jackman|14|1|0|1|-1|37|0|0|0|13|7.70
+Anaheim|6|D|Ben Lovejoy|9|0|1|1|2|7|0|0|0|9|0.00
+Anaheim|16|L|Emerson Etem|14|1|0|1|-1|2|0|0|0|22|4.50
+Anaheim|51|L|Dany Heatley|3|0|0|0|-2|0|0|0|0|6|0.00
+Anaheim|3|D|Clayton Stoner|13|0|0|0|0|16|0|0|0|13|0.00
+Anaheim|28|D|Mark Fistric|3|0|0|0|-1|0|0|0|0|0|0.00
+Anaheim|62|R|Chris Wagner|1|0|0|0|0|2|0|0|0|0|0.00
+Anaheim|42|D|Josh Manson|3|0|0|0|-1|2|0|0|0|2|0.00
+Vancouver|33|C|Henrik Sedin|14|5|10|15|4|2|1|0|0|18|27.80
+Vancouver|22|L|Daniel Sedin|14|3|11|14|3|4|1|0|1|40|7.50
+Vancouver|17|R|Radim Vrbata|14|6|7|13|1|2|2|0|2|49|12.20
+Vancouver|13|C|Nick Bonino|14|7|5|12|7|6|0|0|3|33|21.20
+Vancouver|20|L|Chris Higgins|14|2|7|9|7|4|0|0|0|28|7.10
+Vancouver|7|R|Linden Vey|14|4|3|7|-1|2|3|0|1|11|36.40
+Vancouver|23|D|Alexander Edler|14|3|4|7|5|4|3|0|0|46|6.50
+Vancouver|14|R|Alexandre Burrows|11|2|5|7|5|8|1|0|0|18|11.10
+Vancouver|15|R|Brad Richardson|14|3|3|6|-4|11|0|0|0|25|12.00
+Vancouver|51|R|Derek Dorsett|14|2|3|5|0|26|0|1|1|19|10.50
+Vancouver|36|R|Jannik Hansen|14|3|1|4|-3|4|0|0|0|21|14.30
+Vancouver|9|R|Zack Kassian|13|2|2|4|-4|24|0|0|0|20|10.00
+Vancouver|8|D|Christopher Tanev|14|0|4|4|5|4|0|0|0|8|0.00
+Vancouver|2|D|Dan Hamhuis|14|0|4|4|-6|11|0|0|0|17|0.00
+Vancouver|5|D|Luca Sbisa|13|2|1|3|-2|8|0|0|1|9|22.20
+Vancouver|27|C|Shawn Matthias|14|1|2|3|-8|6|0|0|0|20|5.00
+Vancouver|6|D|Yannick Weber|10|0|2|2|5|4|0|0|0|15|0.00
+Vancouver|29|L|Tom Sestito|2|0|1|1|1|0|0|0|0|0|0.00
+Vancouver|3|D|Kevin Bieksa|14|0|1|1|-4|18|0|0|0|32|0.00
+Vancouver|18|D|Ryan Stanton|5|0|0|0|2|0|0|0|0|7|0.00
+Vancouver|53|C|Bo Horvat|2|0|0|0|1|0|0|0|0|2|0.00
+Montréal|14|C|Tomas Plekanec|14|5|4|9|-1|0|0|1|1|40|12.50
+Montréal|76|D|P.K. Subban|14|3|6|9|-2|22|1|0|1|27|11.10
+Montréal|67|L|Max Pacioretty|14|5|4|9|7|12|1|0|0|49|10.20
+Montréal|27|C|Alex Galchenyuk|14|4|4|8|-2|6|0|0|0|31|12.90
+Montréal|79|D|Andrei Markov|14|1|5|6|1|2|0|0|0|27|3.70
+Montréal|15|R|Pierre-Alexandre Parenteau|14|3|3|6|-2|6|1|0|0|29|10.30
+Montréal|74|D|Alexei Emelin|12|0|6|6|2|14|0|0|0|6|0.00
+Montréal|51|C|David Desharnais|14|1|5|6|7|12|0|0|1|16|6.30
+Montréal|11|R|Brendan Gallagher|14|3|2|5|1|4|0|0|1|43|7.00
+Montréal|22|R|Dale Weise|11|0|4|4|0|2|0|0|0|14|0.00
+Montréal|81|C|Lars Eller|14|2|1|3|-9|12|0|0|1|25|8.00
+Montréal|77|D|Tom Gilbert|14|1|1|2|4|14|0|0|0|12|8.30
+Montréal|17|R|Rene Bourque|13|0|2|2|-9|6|0|0|0|18|0.00
+Montréal|24|D|Jarred Tinordi|9|0|2|2|-5|7|0|0|0|4|0.00
+Montréal|43|D|Mike Weaver|13|0|1|1|-6|4|0|0|0|3|0.00
+Montréal|8|L|Brandon Prust|14|0|1|1|-6|23|0|0|0|7|0.00
+Montréal|26|L|Jiri Sekac|7|1|0|1|-4|2|0|0|0|5|20.00
+Montréal|20|C|Manny Malhotra|14|0|0|0|-3|2|0|0|0|12|0.00
+Montréal|32|L|Travis Moen|9|0|0|0|0|4|0|0|0|9|0.00
+Montréal|49|L|Michael Bournival|2|0|0|0|0|0|0|0|0|2|0.00
+Montréal|28|D|Nathan Beaulieu|8|0|0|0|-5|4|0|0|0|13|0.00
+Tampa Bay|9|C|Tyler Johnson|13|2|13|15|9|2|1|0|0|38|5.30
+Tampa Bay|91|C|Steven Stamkos|13|8|5|13|-2|4|3|0|1|53|15.10
+Tampa Bay|86|R|Nikita Kucherov|13|5|7|12|7|2|0|0|0|31|16.10
+Tampa Bay|51|C|Valtteri Filppula|13|3|8|11|-2|4|0|0|0|18|16.70
+Tampa Bay|6|D|Anton Stralman|13|1|8|9|15|4|0|0|0|19|5.30
+Tampa Bay|18|L|Ondrej Palat|13|4|5|9|6|6|0|0|1|23|17.40
+Tampa Bay|11|C|Brian Boyle|13|4|3|7|3|13|0|1|2|24|16.70
+Tampa Bay|5|D|Jason Garrison|13|2|5|7|3|4|1|0|2|31|6.50
+Tampa Bay|77|D|Victor Hedman|5|3|4|7|2|4|2|0|1|11|27.30
+Tampa Bay|24|R|Ryan Callahan|8|4|2|6|2|4|2|0|1|18|22.20
+Tampa Bay|90|C|Vladislav Namestnikov|13|3|2|5|0|2|1|0|1|20|15.00
+Tampa Bay|27|L|Jonathan Drouin|8|1|4|5|0|2|0|0|0|10|10.00
+Tampa Bay|17|C|Alex Killorn|8|2|2|4|0|4|0|0|0|14|14.30
+Tampa Bay|2|D|Eric Brewer|11|0|3|3|2|12|0|0|0|8|0.00
+Tampa Bay|25|D|Matthew Carle|13|1|1|2|3|8|1|0|0|9|11.10
+Tampa Bay|14|R|Brett Connolly|8|2|0|2|3|12|0|0|0|8|25.00
+Tampa Bay|13|C|Cedric Paquette|5|2|0|2|2|5|0|0|0|10|20.00
+Tampa Bay|10|L|Brenden Morrow|13|0|1|1|1|4|0|0|0|3|0.00
+Tampa Bay|7|D|Radko Gudas|9|0|1|1|-1|18|0|0|0|12|0.00
+Tampa Bay|23|R|J.T. Brown|12|0|1|1|-2|7|0|0|0|14|0.00
+Tampa Bay|62|D|Andrej Sustr|11|0|1|1|-2|2|0|0|0|7|0.00
+Tampa Bay|46|R|Mike Blunden|2|0|0|0|-1|2|0|0|0|0|0.00
+Tampa Bay|8|D|Mark Barberio|3|0|0|0|0|0|0|0|0|2|0.00
+Tampa Bay|42|C|Jonathan Marchessault|1|0|0|0|-1|0|0|0|0|1|0.00
+St. Louis|91|R|Vladimir Tarasenko|13|9|7|16|10|6|3|0|2|55|16.40
+St. Louis|22|D|Kevin Shattenkirk|13|1|10|11|3|8|1|0|0|25|4.00
+St. Louis|17|L|Jaden Schwartz|13|6|5|11|4|4|2|0|0|44|13.60
+St. Louis|12|C|Jori Lehtera|12|2|7|9|6|12|1|0|0|16|12.50
+St. Louis|20|L|Alexander Steen|13|3|5|8|4|4|1|0|2|41|7.30
+St. Louis|27|D|Alex Pietrangelo|13|1|6|7|-3|2|1|0|0|27|3.70
+St. Louis|42|C|David Backes|12|3|3|6|-1|6|3|0|2|28|10.70
+St. Louis|26|C|Paul Stastny|5|1|3|4|-1|6|0|0|0|12|8.30
+St. Louis|5|D|Barret Jackman|13|0|3|3|3|11|0|0|0|13|0.00
+St. Louis|40|C|Maxim Lapierre|13|0|2|2|0|6|0|0|0|15|0.00
+St. Louis|75|R|Ryan Reaves|13|2|0|2|0|11|0|0|0|7|28.60
+St. Louis|21|C|Patrik Berglund|12|1|1|2|-2|4|0|0|0|22|4.50
+St. Louis|9|C|Steve Ott|13|0|1|1|-1|15|0|0|0|4|0.00
+St. Louis|19|D|Jay Bouwmeester|13|1|0|1|2|4|0|0|0|15|6.70
+St. Louis|10|C|Joakim Lindstrom|12|1|0|1|-2|2|0|0|0|21|4.80
+St. Louis|74|R|T.J. Oshie|8|0|1|1|-1|7|0|0|0|15|0.00
+St. Louis|28|D|Ian Cole|13|0|1|1|6|12|0|0|0|17|0.00
+St. Louis|4|D|Carl Gunnarsson|6|0|1|1|0|0|0|0|0|5|0.00
+St. Louis|23|R|Dmitrij Jaskin|6|1|0|1|-1|4|0|0|1|6|16.70
+St. Louis|33|D|Jordan Leopold|7|0|0|0|0|2|0|0|0|1|0.00
+St. Louis|32|L|Chris Porter|5|0|0|0|0|4|0|0|0|8|0.00
+St. Louis|56|L|Magnus Paajarvi|5|0|0|0|-1|2|0|0|0|4|0.00
+St. Louis|48|D|Petteri Lindbohm|1|0|0|0|-1|0|0|0|0|4|0.00
+Pittsburgh|87|C|Sidney Crosby|12|7|12|19|3|8|3|0|1|42|16.70
+Pittsburgh|71|C|Evgeni Malkin|12|5|11|16|-4|14|5|0|0|28|17.90
+Pittsburgh|72|R|Patric Hornqvist|12|7|8|15|4|2|2|0|1|53|13.20
+Pittsburgh|14|L|Chris Kunitz|12|8|6|14|6|6|5|0|3|27|29.60
+Pittsburgh|9|R|Pascal Dupuis|12|4|5|9|1|2|2|0|0|31|12.90
+Pittsburgh|58|D|Kris Letang|12|1|7|8|-4|8|1|0|0|36|2.80
+Pittsburgh|16|C|Brandon Sutter|12|4|4|8|3|2|0|1|1|28|14.30
+Pittsburgh|17|L|Blake Comeau|12|3|4|7|2|14|0|0|1|17|17.60
+Pittsburgh|23|R|Steve Downie|12|2|5|7|3|49|1|0|0|17|11.80
+Pittsburgh|3|D|Olli Maatta|10|1|5|6|1|4|0|0|0|14|7.10
+Pittsburgh|47|D|Simon Despres|12|1|4|5|7|36|0|0|0|13|7.70
+Pittsburgh|10|D|Christian Ehrhoff|12|0|4|4|7|2|0|0|0|19|0.00
+Pittsburgh|13|C|Nick Spaling|12|2|2|4|5|6|0|0|0|7|28.60
+Pittsburgh|7|D|Paul Martin|12|1|2|3|3|2|0|0|0|13|7.70
+Pittsburgh|4|D|Rob Scuderi|12|0|2|2|6|2|0|0|0|2|0.00
+Pittsburgh|27|R|Craig Adams|12|1|0|1|0|11|0|0|1|7|14.30
+Pittsburgh|57|C|Marcel Goc|12|1|0|1|0|2|0|0|0|12|8.30
+Pittsburgh|41|D|Robert Bortuzzo|2|0|1|1|1|5|0|0|0|1|0.00
+Pittsburgh|38|C|Zach Sill|12|0|0|0|1|7|0|0|0|4|0.00
+Boston|34|C|Carl Soderberg|15|4|8|12|2|2|2|0|1|27|14.80
+Boston|46|C|David Krejci|10|3|7|10|4|10|0|1|1|23|13.00
+Boston|63|L|Brad Marchand|15|5|5|10|8|18|1|0|2|39|12.80
+Boston|27|D|Dougie Hamilton|15|3|7|10|3|6|1|0|1|37|8.10
+Boston|21|R|Loui Eriksson|15|3|6|9|5|4|1|0|0|26|11.50
+Boston|37|C|Patrice Bergeron|15|2|7|9|2|12|0|0|0|46|4.30
+Boston|17|L|Milan Lucic|15|3|6|9|1|31|1|0|0|23|13.00
+Boston|18|R|Reilly Smith|15|3|5|8|3|2|1|0|0|22|13.60
+Boston|23|C|Chris Kelly|15|2|5|7|3|2|0|0|1|24|8.30
+Boston|47|D|Torey Krug|11|2|4|6|2|0|1|0|0|29|6.90
+Boston|53|C|Seth Griffith|11|3|2|5|-2|4|0|0|0|17|17.60
+Boston|44|D|Dennis Seidenberg|15|1|3|4|5|12|0|0|0|27|3.70
+Boston|33|D|Zdeno Chara|9|2|1|3|-2|6|1|0|0|28|7.10
+Boston|11|C|Gregory Campbell|10|2|1|3|1|4|0|1|1|7|28.60
+Boston|20|L|Daniel Paille|15|0|2|2|-3|4|0|0|0|10|0.00
+Boston|54|D|Adam McQuaid|15|1|1|2|1|13|0|0|0|10|10.00
+Boston|25|R|Matt Fraser|7|2|0|2|-1|0|0|0|1|10|20.00
+Boston|62|D|Zach Trotman|6|0|2|2|1|0|0|0|0|9|0.00
+Boston|12|L|Simon Gagne|10|1|0|1|-1|2|0|0|0|14|7.10
+Boston|79|D|David Warsofsky|4|0|1|1|1|0|0|0|0|7|0.00
+Boston|64|R|Bobby Robins|3|0|0|0|0|14|0|0|0|0|0.00
+Boston|43|D|Matt Bartkowski|5|0|0|0|-4|0|0|0|0|6|0.00
+Boston|38|R|Jordan Caron|1|0|0|0|-1|0|0|0|0|0|0.00
+Boston|61|R|Craig Cunningham|3|0|0|0|0|0|0|0|0|2|0.00
+Boston|51|C|Ryan Spooner|5|0|0|0|-2|0|0|0|0|6|0.00
+Boston|86|D|Kevan Miller|6|0|0|0|4|5|0|0|0|2|0.00
+Boston|45|D|Joe Morrow|4|0|0|0|1|2|0|0|0|10|0.00
+Calgary|5|D|Mark Giordano|15|4|11|15|6|17|1|0|0|35|11.40
+Calgary|7|D|TJ Brodie|15|4|10|14|10|8|2|0|0|27|14.80
+Calgary|24|C|Jiri Hudler|14|4|7|11|3|2|0|0|0|17|23.50
+Calgary|6|D|Dennis Wideman|14|5|4|9|-2|6|2|0|1|32|15.60
+Calgary|13|L|Johnny Gaudreau|14|2|7|9|7|0|1|0|2|21|9.50
+Calgary|23|C|Sean Monahan|15|5|4|9|0|2|2|0|1|41|12.20
+Calgary|8|C|Joe Colborne|11|0|8|8|3|12|0|0|0|6|0.00
+Calgary|21|L|Mason Raymond|10|5|2|7|2|4|0|0|1|24|20.80
+Calgary|4|D|Kris Russell|15|0|7|7|2|2|0|0|0|18|0.00
+Calgary|20|L|Curtis Glencross|15|2|4|6|1|20|1|0|1|26|7.70
+Calgary|86|C|Josh Jooris|8|3|2|5|-1|0|1|0|0|13|23.10
+Calgary|32|C|Paul Byron|15|1|3|4|3|2|0|0|0|22|4.50
+Calgary|11|C|Mikael Backlund|11|1|3|4|0|4|0|0|1|18|5.60
+Calgary|17|C|Lance Bouma|14|3|1|4|-2|2|0|0|0|13|23.10
+Calgary|60|C|Markus Granlund|4|2|1|3|2|2|0|0|0|8|25.00
+Calgary|18|C|Matt Stajan|11|1|1|2|2|12|0|0|0|9|11.10
+Calgary|25|L|Brandon Bollig|15|0|2|2|-1|18|0|0|0|16|0.00
+Calgary|29|D|Deryk Engelland|11|0|1|1|-2|18|0|0|0|9|0.00
+Calgary|19|R|David Jones|6|0|1|1|0|2|0|0|0|12|0.00
+Calgary|15|D|Ladislav Smid|14|0|1|1|-3|11|0|0|0|12|0.00
+Calgary|16|R|Brian McGrattan|5|0|0|0|-1|4|0|0|0|8|0.00
+Calgary|22|R|Devin Setoguchi|8|0|0|0|-3|2|0|0|0|11|0.00
+Calgary|79|L|Michael Ferland|1|0|0|0|0|0|0|0|0|1|0.00
+Calgary|33|D|Raphael Diaz|6|0|0|0|0|2|0|0|0|2|0.00
+Calgary|27|L|Sven Baertschi|3|0|0|0|-1|0|0|0|0|5|0.00
+Nashville|9|C|Filip Forsberg|13|5|8|13|13|4|2|0|1|36|13.90
+Nashville|63|C|Mike Ribeiro|13|3|7|10|4|4|0|0|1|16|18.80
+Nashville|18|L|James Neal|13|7|2|9|4|8|1|0|1|43|16.30
+Nashville|21|C|Derek Roy|13|0|7|7|0|0|0|0|0|24|0.00
+Nashville|4|D|Ryan Ellis|13|1|6|7|2|6|0|0|0|32|3.10
+Nashville|15|C|Craig Smith|13|5|2|7|1|4|2|0|0|35|14.30
+Nashville|6|D|Shea Weber|13|4|2|6|7|12|1|0|0|30|13.30
+Nashville|14|D|Mattias Ekholm|13|0|5|5|3|10|0|0|0|7|0.00
+Nashville|7|C|Matt Cullen|5|1|3|4|1|2|0|0|1|6|16.70
+Nashville|28|C|Paul Gaustad|13|1|3|4|5|7|0|0|1|10|10.00
+Nashville|24|L|Eric Nystrom|13|2|2|4|4|6|0|0|1|14|14.30
+Nashville|33|C|Colin Wilson|13|1|3|4|2|6|0|0|0|22|4.50
+Nashville|59|D|Roman Josi|13|1|3|4|6|2|0|0|0|23|4.30
+Nashville|3|D|Seth Jones|13|0|3|3|2|2|0|0|0|8|0.00
+Nashville|20|D|Anton Volchenkov|10|0|2|2|2|4|0|0|0|4|0.00
+Nashville|41|L|Taylor Beck|9|1|1|2|2|4|0|0|1|11|9.10
+Nashville|13|C|Olli Jokinen|13|0|0|0|0|4|0|0|0|23|0.00
+Nashville|16|L|Rich Clune|1|0|0|0|0|0|0|0|0|0|0.00
+Nashville|25|L|Viktor Stalberg|5|0|0|0|-1|8|0|0|0|6|0.00
+Nashville|64|D|Victor Bartley|3|0|0|0|0|0|0|0|0|2|0.00
+Nashville|57|L|Gabriel Bourque|10|0|0|0|-3|0|0|0|0|8|0.00
+Nashville|19|C|Calle Jarnkrok|9|0|0|0|0|2|0|0|0|12|0.00
+Los Angeles|73|C|Tyler Toffoli|14|6|8|14|11|4|1|3|0|33|18.20
+Los Angeles|77|C|Jeff Carter|14|5|7|12|10|6|2|0|1|29|17.20
+Los Angeles|70|L|Tanner Pearson|14|7|2|9|10|8|1|0|1|24|29.20
+Los Angeles|10|C|Mike Richards|14|2|5|7|-1|35|1|0|0|18|11.10
+Los Angeles|8|D|Drew Doughty|14|0|6|6|2|12|0|0|0|33|0.00
+Los Angeles|74|L|Dwight King|14|2|3|5|-5|2|0|0|1|16|12.50
+Los Angeles|14|R|Justin Williams|13|1|2|3|-2|8|0|0|1|40|2.50
+Los Angeles|11|C|Anze Kopitar|11|2|1|3|-1|0|1|0|1|21|9.50
+Los Angeles|22|C|Trevor Lewis|5|1|2|3|2|0|0|1|0|13|7.70
+Los Angeles|27|D|Alec Martinez|14|2|1|3|6|2|0|0|0|34|5.90
+Los Angeles|44|D|Robyn Regehr|14|0|2|2|4|13|0|0|0|16|0.00
+Los Angeles|23|R|Dustin Brown|14|2|0|2|-2|2|0|0|1|35|5.70
+Los Angeles|26|D|Slava Voynov|6|0|2|2|0|2|0|0|0|5|0.00
+Los Angeles|13|L|Kyle Clifford|14|1|1|2|-2|14|0|0|0|22|4.50
+Los Angeles|12|R|Marian Gaborik|6|0|1|1|0|0|0|0|0|10|0.00
+Los Angeles|28|C|Jarret Stoll|14|0|1|1|-1|20|0|0|0|17|0.00
+Los Angeles|2|D|Matt Greene|14|0|1|1|4|25|0|0|0|10|0.00
+Los Angeles|6|D|Jake Muzzin|8|0|1|1|-3|2|0|0|0|19|0.00
+Los Angeles|3|D|Brayden McNabb|14|0|1|1|1|13|0|0|0|6|0.00
+Los Angeles|36|L|David Van Der Gulik|1|0|0|0|0|0|0|0|0|1|0.00
+Los Angeles|71|C|Jordan Nolan|11|0|0|0|-2|4|0|0|0|9|0.00
+Los Angeles|15|L|Andy Andreoff|8|0|0|0|0|12|0|0|0|3|0.00
+San Jose|12|L|Patrick Marleau|14|4|9|13|1|4|2|0|1|41|9.80
+San Jose|88|D|Brent Burns|14|4|9|13|-1|18|0|0|0|45|8.90
+San Jose|39|C|Logan Couture|14|7|6|13|0|2|3|0|1|50|14.00
+San Jose|8|C|Joe Pavelski|14|5|7|12|3|7|3|0|1|49|10.20
+San Jose|19|C|Joe Thornton|14|3|8|11|2|4|0|0|0|29|10.30
+San Jose|57|C|Tommy Wingels|14|5|4|9|0|9|2|0|1|50|10.00
+San Jose|83|L|Matt Nieto|14|1|5|6|0|6|0|0|0|30|3.30
+San Jose|61|D|Justin Braun|14|0|5|5|5|18|0|0|0|16|0.00
+San Jose|48|C|Tomas Hertl|14|3|2|5|0|4|1|0|0|16|18.80
+San Jose|44|D|Marc-Edouard Vlasic|14|2|2|4|9|4|0|0|1|19|10.50
+San Jose|37|R|Adam Burish|14|1|2|3|-1|22|0|0|0|18|5.60
+San Jose|15|L|James Sheppard|8|2|1|3|0|5|0|0|0|9|22.20
+San Jose|5|D|Jason Demers|12|0|3|3|-1|4|0|0|0|5|0.00
+San Jose|52|D|Matt Irwin|7|2|1|3|-6|0|1|0|0|6|33.30
+San Jose|41|D|Mirco Mueller|11|1|2|3|1|4|0|0|0|9|11.10
+San Jose|25|L|Tye McGinn|8|0|2|2|-1|0|0|0|0|7|0.00
+San Jose|50|C|Chris Tierney|11|0|2|2|-2|0|0|0|0|11|0.00
+San Jose|81|R|Tyler Kennedy|1|0|1|1|0|2|0|0|0|5|0.00
+San Jose|10|C|Andrew Desjardins|14|0|1|1|-2|26|0|0|0|10|0.00
+San Jose|20|L|John Scott|5|1|0|1|0|22|0|0|0|2|50.00
+San Jose|27|D|Scott Hannan|12|0|0|0|-2|8|0|0|0|8|0.00
+San Jose|18|R|Mike Brown|2|0|0|0|0|7|0|0|0|2|0.00
+San Jose|89|R|Barclay Goodrow|3|0|0|0|0|0|0|0|0|4|0.00
+San Jose|76|R|Eriah Hayes|4|0|0|0|-2|2|0|0|0|10|0.00
+Winnipeg|18|C|Bryan Little|14|5|6|11|5|6|1|1|1|28|17.90
+Winnipeg|16|L|Andrew Ladd|14|6|4|10|2|10|2|0|1|41|14.60
+Winnipeg|26|R|Blake Wheeler|14|5|5|10|2|33|0|0|1|40|12.50
+Winnipeg|39|D|Toby Enstrom|14|0|8|8|3|8|0|0|0|14|0.00
+Winnipeg|44|D|Zach Bogosian|13|0|6|6|4|20|0|0|0|27|0.00
+Winnipeg|33|R|Dustin Byfuglien|14|2|2|4|2|45|0|0|0|46|4.30
+Winnipeg|67|R|Michael Frolik|14|1|3|4|-1|2|0|0|1|35|2.90
+Winnipeg|55|C|Mark Scheifele|14|2|2|4|1|8|1|0|1|27|7.40
+Winnipeg|85|C|Mathieu Perreault|14|0|3|3|-4|10|0|0|0|25|0.00
+Winnipeg|9|L|Evander Kane|6|1|2|3|1|11|0|0|0|16|6.30
+Winnipeg|8|D|Jacob Trouba|14|2|1|3|-1|10|0|0|0|26|7.70
+Winnipeg|5|D|Mark Stuart|14|1|1|2|-2|10|0|0|0|11|9.10
+Winnipeg|4|D|Paul Postma|14|1|1|2|-2|6|1|0|0|21|4.80
+Winnipeg|2|D|Adam Pardy|6|0|1|1|-2|4|0|0|0|5|0.00
+Winnipeg|24|D|Grant Clitsome|9|0|1|1|-2|2|0|0|0|4|0.00
+Winnipeg|17|L|Adam Lowry|14|1|0|1|-3|9|0|0|1|19|5.30
+Winnipeg|22|R|Chris Thorburn|14|0|0|0|-4|7|0|0|0|9|0.00
+Winnipeg|19|C|Jim Slater|14|0|0|0|-2|8|0|0|0|5|0.00
+Winnipeg|21|L|TJ Galiardi|14|0|0|0|-4|2|0|0|0|14|0.00
+Winnipeg|14|R|Anthony Peluso|3|0|0|0|-1|2|0|0|0|4|0.00
+Winnipeg|15|R|Matt Halischuk|5|0|0|0|0|2|0|0|0|2|0.00
+NY Islanders|91|C|John Tavares|13|6|9|15|-4|6|4|0|1|38|15.80
+NY Islanders|21|R|Kyle Okposo|13|5|9|14|-3|2|2|0|0|46|10.90
+NY Islanders|29|C|Brock Nelson|13|7|7|14|2|2|4|0|1|32|21.90
+NY Islanders|55|D|Johnny Boychuk|13|2|7|9|4|10|2|0|0|31|6.50
+NY Islanders|51|C|Frans Nielsen|13|4|4|8|3|0|0|0|1|31|12.90
+NY Islanders|18|C|Ryan Strome|13|0|8|8|3|10|0|0|0|24|0.00
+NY Islanders|84|C|Mikhail Grabovski|10|3|3|6|3|0|0|0|1|14|21.40
+NY Islanders|86|L|Nikolay Kulemin|13|1|5|6|2|15|0|1|0|15|6.70
+NY Islanders|2|D|Nick Leddy|13|3|3|6|4|4|0|0|0|20|15.00
+NY Islanders|12|L|Josh Bailey|7|2|2|4|2|0|0|0|1|8|25.00
+NY Islanders|11|D|Lubomir Visnovsky|7|1|2|3|-1|0|0|0|0|13|7.70
+NY Islanders|15|R|Cal Clutterbuck|13|1|1|2|-1|16|0|0|1|25|4.00
+NY Islanders|14|D|Thomas Hickey|13|1|1|2|-3|6|0|0|0|11|9.10
+NY Islanders|3|D|Travis Hamonic|9|1|1|2|0|27|0|0|0|13|7.70
+NY Islanders|44|D|Calvin de Haan|10|0|2|2|-3|6|0|0|0|9|0.00
+NY Islanders|89|C|Cory Conacher|12|1|1|2|-4|14|0|0|0|20|5.00
+NY Islanders|37|D|Brian Strait|10|0|1|1|-4|6|0|0|0|8|0.00
+NY Islanders|17|L|Matt Martin|13|0|1|1|-5|13|0|0|0|14|0.00
+NY Islanders|27|C|Anders Lee|7|1|0|1|-2|2|0|0|0|16|6.30
+NY Islanders|36|L|Eric Boulton|2|0|0|0|0|0|0|0|0|2|0.00
+NY Islanders|13|R|Colin McDonald|2|0|0|0|0|0|0|0|0|3|0.00
+NY Islanders|53|C|Casey Cizikas|12|0|0|0|-2|6|0|0|0|16|0.00
+NY Islanders|8|D|Griffin Reinhart|3|0|0|0|-1|2|0|0|0|1|0.00
+Detroit|40|L|Henrik Zetterberg|13|4|11|15|4|12|0|0|1|39|10.30
+Detroit|13|C|Pavel Datsyuk|8|5|5|10|-1|4|1|0|0|24|20.80
+Detroit|8|L|Justin Abdelkader|13|5|5|10|3|12|0|0|2|36|13.90
+Detroit|14|R|Gustav Nyquist|13|7|2|9|1|6|4|0|2|28|25.00
+Detroit|55|D|Niklas Kronwall|13|2|6|8|-1|12|0|0|0|19|10.50
+Detroit|93|R|Johan Franzen|7|2|5|7|1|10|0|0|1|17|11.80
+Detroit|15|C|Riley Sheahan|13|1|4|5|2|2|0|0|0|19|5.30
+Detroit|43|C|Darren Helm|13|0|4|4|-2|2|0|0|0|18|0.00
+Detroit|21|L|Tomas Tatar|13|4|0|4|-1|4|1|0|0|31|12.90
+Detroit|65|D|Danny DeKeyser|13|0|4|4|4|2|0|0|0|12|0.00
+Detroit|4|D|Jakub Kindl|13|1|2|3|3|6|1|0|0|17|5.90
+Detroit|2|D|Brendan Smith|13|0|2|2|0|4|0|0|0|10|0.00
+Detroit|49|C|Andrej Nestrasil|11|0|2|2|-1|4|0|0|0|15|0.00
+Detroit|26|R|Tomas Jurco|12|0|2|2|2|0|0|0|0|22|0.00
+Detroit|17|R|Daniel Cleary|1|1|0|1|0|0|0|0|0|1|100.00
+Detroit|52|D|Jonathan Ericsson|13|0|1|1|-1|14|0|0|0|16|0.00
+Detroit|27|D|Kyle Quincey|10|0|1|1|0|6|0|0|0|12|0.00
+Detroit|20|L|Drew Miller|13|0|1|1|-1|0|0|0|0|13|0.00
+Detroit|41|C|Luke Glendening|13|1|0|1|0|6|0|0|0|19|5.30
+Detroit|90|C|Stephen Weiss|1|0|0|0|0|0|0|0|0|0|0.00
+Detroit|18|C|Joakim Andersson|12|0|0|0|-2|6|0|0|0|17|0.00
+Detroit|23|D|Brian Lashoff|3|0|0|0|0|0|0|0|0|6|0.00
+Ottawa|16|L|Clarke MacArthur|12|7|3|10|1|8|4|0|3|36|19.40
+Ottawa|65|D|Erik Karlsson|12|4|6|10|-6|4|1|0|1|47|8.50
+Ottawa|6|R|Bobby Ryan|12|3|4|7|1|4|1|0|0|31|9.70
+Ottawa|7|C|Kyle Turris|12|1|6|7|1|4|0|0|0|27|3.70
+Ottawa|90|R|Alex Chiasson|11|3|4|7|-3|8|3|0|0|15|20.00
+Ottawa|61|R|Mark Stone|11|3|4|7|3|2|0|0|0|19|15.80
+Ottawa|17|C|David Legwand|12|2|3|5|1|8|1|0|0|12|16.70
+Ottawa|5|D|Cody Ceci|12|0|5|5|5|0|0|0|0|19|0.00
+Ottawa|68|L|Mike Hoffman|9|3|1|4|5|2|0|0|1|23|13.00
+Ottawa|27|C|Curtis Lazar|10|0|4|4|2|4|0|0|0|15|0.00
+Ottawa|25|R|Chris Neil|12|1|2|3|2|16|0|0|0|7|14.30
+Ottawa|9|L|Milan Michalek|12|1|2|3|1|0|0|1|0|17|5.90
+Ottawa|46|D|Patrick Wiercioch|9|1|2|3|3|12|0|0|1|9|11.10
+Ottawa|15|C|Zack Smith|12|2|0|2|-2|6|0|0|0|16|12.50
+Ottawa|93|C|Mika Zibanejad|12|2|0|2|-2|2|0|0|0|18|11.10
+Ottawa|4|D|Chris Phillips|11|0|1|1|0|8|0|0|0|13|0.00
+Ottawa|62|D|Eric Gryba|12|0|1|1|7|32|0|0|0|6|0.00
+Ottawa|74|D|Mark Borowiecki|9|0|1|1|3|24|0|0|0|7|0.00
+Ottawa|14|L|Colin Greening|2|0|0|0|0|0|0|0|0|2|0.00
+Ottawa|22|R|Erik Condra|5|0|0|0|0|0|0|0|0|7|0.00
+Ottawa|2|D|Jared Cowen|7|0|0|0|-3|8|0|0|0|6|0.00
+Chicago|19|C|Jonathan Toews|13|5|5|10|2|2|1|1|2|35|14.30
+Chicago|10|L|Patrick Sharp|13|3|6|9|-2|10|3|0|0|56|5.40
+Chicago|88|R|Patrick Kane|13|4|5|9|-3|0|2|0|1|37|10.80
+Chicago|20|L|Brandon Saad|13|1|7|8|-2|4|0|0|1|25|4.00
+Chicago|2|D|Duncan Keith|13|2|5|7|3|8|0|0|0|35|5.70
+Chicago|91|C|Brad Richards|13|2|4|6|-1|2|1|0|0|30|6.70
+Chicago|7|D|Brent Seabrook|13|2|4|6|1|4|2|0|1|32|6.30
+Chicago|81|R|Marian Hossa|13|2|3|5|-1|6|0|1|0|41|4.90
+Chicago|29|L|Bryan Bickell|13|1|4|5|2|8|0|0|0|21|4.80
+Chicago|23|L|Kris Versteeg|9|3|2|5|4|4|0|0|0|21|14.30
+Chicago|65|C|Andrew Shaw|13|3|2|5|-1|8|1|0|0|28|10.70
+Chicago|4|D|Niklas Hjalmarsson|13|0|3|3|0|12|0|0|0|12|0.00
+Chicago|5|D|David Rundblad|6|0|2|2|4|0|0|0|0|5|0.00
+Chicago|16|C|Marcus Kruger|13|1|1|2|1|10|0|0|0|29|3.40
+Chicago|27|D|Johnny Oduya|13|1|0|1|-1|6|0|0|0|14|7.10
+Chicago|13|L|Daniel Carcillo|7|1|0|1|1|2|0|0|0|14|7.10
+Chicago|28|R|Ben Smith|13|1|0|1|1|0|0|0|0|19|5.30
+Chicago|32|D|Michal Rozsival|7|0|0|0|-2|0|0|0|0|5|0.00
+Chicago|11|R|Jeremy Morin|10|0|0|0|-1|6|0|0|0|21|0.00
+Chicago|57|D|Trevor Van Riemsdyk|13|0|0|0|2|2|0|0|0|13|0.00
+New Jersey|68|R|Jaromir Jagr|13|2|7|9|-1|10|2|0|1|19|10.50
+New Jersey|17|R|Michael Ryder|13|4|5|9|3|4|0|0|0|27|14.80
+New Jersey|14|C|Adam Henrique|12|4|5|9|4|4|2|0|0|24|16.70
+New Jersey|28|D|Damon Severson|13|4|4|8|5|6|0|0|0|36|11.10
+New Jersey|26|C|Patrik Elias|13|1|6|7|-2|2|0|0|0|19|5.30
+New Jersey|23|L|Mike Cammalleri|8|5|2|7|2|8|2|0|1|29|17.20
+New Jersey|2|D|Marek Zidlicky|13|3|4|7|-4|8|2|0|0|26|11.50
+New Jersey|29|L|Ryane Clowe|13|1|3|4|-1|4|0|0|0|15|6.70
+New Jersey|19|C|Travis Zajac|13|1|3|4|-2|8|0|0|0|19|5.30
+New Jersey|6|D|Andy Greene|13|0|4|4|8|4|0|0|0|15|0.00
+New Jersey|22|D|Eric Gelinas|10|1|3|4|0|4|0|0|0|24|4.20
+New Jersey|7|D|Jon Merrill|11|1|3|4|-2|8|1|0|0|7|14.30
+New Jersey|12|R|Damien Brunner|9|1|3|4|0|4|0|0|0|15|6.70
+New Jersey|9|L|Martin Havlat|5|1|2|3|-2|4|1|0|1|5|20.00
+New Jersey|15|L|Tuomo Ruutu|12|2|1|3|2|8|0|0|0|10|20.00
+New Jersey|8|L|Dainius Zubrus|13|2|0|2|-1|4|0|0|1|13|15.40
+New Jersey|11|C|Stephen Gionta|13|0|2|2|4|4|0|0|0|20|0.00
+New Jersey|16|C|Jacob Josefson|7|1|1|2|0|0|0|1|0|5|20.00
+New Jersey|24|D|Bryce Salvador|13|0|1|1|-3|16|0|0|0|12|0.00
+New Jersey|18|R|Steve Bernier|2|0|1|1|2|0|0|0|0|1|0.00
+New Jersey|10|R|Mike Sislo|1|0|1|1|1|0|0|0|0|0|0.00
+New Jersey|5|D|Adam Larsson|5|1|0|1|1|2|0|0|1|7|14.30
+New Jersey|20|R|Jordin Tootoo|6|0|0|0|1|13|0|0|0|3|0.00
+New Jersey|18|L|Reid Boucher|3|0|0|0|0|0|0|0|0|5|0.00
+Philadelphia|93|R|Jakub Voracek|13|6|13|19|4|4|0|0|1|44|13.60
+Philadelphia|28|C|Claude Giroux|13|2|13|15|6|4|2|0|1|58|3.40
+Philadelphia|32|D|Mark Streit|13|2|8|10|3|4|1|0|0|28|7.10
+Philadelphia|17|R|Wayne Simmonds|13|6|3|9|10|8|3|0|0|37|16.20
+Philadelphia|10|C|Brayden Schenn|13|3|6|9|2|4|1|0|2|24|12.50
+Philadelphia|15|D|Michael Del Zotto|13|1|6|7|1|2|0|0|1|17|5.90
+Philadelphia|14|C|Sean Couturier|13|4|3|7|1|4|0|0|0|23|17.40
+Philadelphia|12|L|Michael Raffl|12|6|1|7|2|4|0|0|0|29|20.70
+Philadelphia|24|R|Matt Read|13|1|4|5|-1|4|0|0|1|18|5.60
+Philadelphia|40|C|Vincent Lecavalier|6|2|2|4|1|4|0|0|0|16|12.50
+Philadelphia|78|L|Pierre-Edouard Bellemare|13|3|1|4|4|2|0|0|0|20|15.00
+Philadelphia|55|D|Nick Schultz|12|0|3|3|6|8|0|0|0|6|0.00
+Philadelphia|18|C|R.J. Umberger|13|1|2|3|-5|9|0|0|0|17|5.90
+Philadelphia|76|C|Chris VandeVelde|9|1|2|3|-3|6|0|0|0|12|8.30
+Philadelphia|47|D|Andrew MacDonald|7|1|2|3|-2|2|1|0|0|11|9.10
+Philadelphia|8|D|Nicklas Grossmann|13|1|1|2|4|6|0|0|0|11|9.10
+Philadelphia|22|D|Luke Schenn|13|1|1|2|-5|9|0|0|0|19|5.30
+Philadelphia|26|D|Carlo Colaiacovo|2|0|1|1|2|2|0|0|0|1|0.00
+Philadelphia|36|C|Zac Rinaldo|12|0|1|1|-4|15|0|0|0|12|0.00
+Philadelphia|43|D|Brandon Manning|2|0|1|1|0|0|0|0|0|1|0.00
+Philadelphia|5|D|Braydon Coburn|1|0|0|0|1|0|0|0|0|3|0.00
+Philadelphia|41|C|Blair Jones|4|0|0|0|-4|2|0|0|0|0|0.00
+Philadelphia|42|R|Jason Akeson|9|0|0|0|-1|2|0|0|0|5|0.00
+Philadelphia|53|D|Shayne Gostisbehere|2|0|0|0|-2|0|0|0|0|2|0.00
+Toronto|81|R|Phil Kessel|13|7|11|18|3|6|1|0|1|43|16.30
+Toronto|42|C|Tyler Bozak|13|5|7|12|-2|2|4|0|1|32|15.60
+Toronto|21|L|James van Riemsdyk|13|5|4|9|0|13|0|1|1|40|12.50
+Toronto|26|C|Daniel Winnik|13|1|6|7|6|6|0|0|0|17|5.90
+Toronto|47|C|Leo Komarov|13|0|7|7|-1|0|0|0|0|21|0.00
+Toronto|25|C|Mike Santorelli|13|1|5|6|3|0|0|0|0|17|5.90
+Toronto|4|D|Cody Franson|11|2|4|6|2|2|2|0|0|23|8.70
+Toronto|3|D|Dion Phaneuf|13|1|4|5|5|29|1|0|0|29|3.40
+Toronto|43|C|Nazem Kadri|13|4|1|5|0|4|0|0|0|30|13.30
+Toronto|71|R|David Clarkson|13|3|1|4|-1|14|1|0|1|19|15.80
+Toronto|44|D|Morgan Rielly|12|1|3|4|0|2|0|0|0|31|3.20
+Toronto|19|L|Joffrey Lupul|9|2|1|3|-2|6|1|0|0|29|6.90
+Toronto|24|C|Peter Holland|13|1|2|3|0|4|0|0|1|12|8.30
+Toronto|18|R|Richard Panik|12|2|1|3|2|2|0|0|0|9|22.20
+Toronto|50|D|Stuart Percy|8|0|3|3|-2|2|0|0|0|12|0.00
+Toronto|12|D|Stephane Robidas|12|0|2|2|-2|12|0|0|0|7|0.00
+Toronto|51|D|Jake Gardiner|11|1|1|2|-3|0|0|0|0|7|14.30
+Toronto|46|D|Roman Polak|13|1|0|1|2|6|0|0|1|16|6.30
+Toronto|67|R|Brandon Kozun|5|0|1|1|-4|2|0|0|0|2|0.00
+Toronto|39|R|Matt Frattin|5|0|0|0|0|4|0|0|0|2|0.00
+Toronto|37|R|Carter Ashton|3|0|0|0|0|0|0|0|0|3|0.00
+Toronto|53|C|Sam Carrick|3|0|0|0|0|2|0|0|0|1|0.00
+Minnesota|11|L|Zach Parise|11|4|6|10|6|17|0|0|0|47|8.50
+Minnesota|26|L|Thomas Vanek|12|1|7|8|1|4|1|0|0|24|4.20
+Minnesota|20|D|Ryan Suter|12|1|7|8|8|4|0|0|0|22|4.50
+Minnesota|29|R|Jason Pominville|12|3|4|7|4|0|0|0|1|42|7.10
+Minnesota|16|L|Jason Zucker|12|5|2|7|3|6|0|1|0|21|23.80
+Minnesota|24|L|Matt Cooke|8|2|4|6|5|4|0|0|0|7|28.60
+Minnesota|46|D|Jared Spurgeon|9|2|4|6|7|2|0|0|0|20|10.00
+Minnesota|3|C|Charlie Coyle|12|2|4|6|5|12|0|0|2|24|8.30
+Minnesota|22|R|Nino Niederreiter|12|4|2|6|-2|4|1|1|0|25|16.00
+Minnesota|18|C|Ryan Carter|11|0|5|5|1|14|0|0|0|11|0.00
+Minnesota|64|C|Mikael Granlund|12|1|4|5|5|2|0|0|0|23|4.30
+Minnesota|14|R|Justin Fontaine|10|1|4|5|4|0|0|0|0|12|8.30
+Minnesota|6|D|Marco Scandella|12|2|2|4|7|26|0|0|1|24|8.30
+Minnesota|9|C|Mikko Koivu|12|2|1|3|2|0|0|0|0|41|4.90
+Minnesota|21|C|Kyle Brodziak|7|2|0|2|0|11|0|0|0|9|22.20
+Minnesota|39|D|Nate Prosser|9|1|1|2|0|4|0|0|0|3|33.30
+Minnesota|25|D|Jonas Brodin|10|0|2|2|7|0|0|0|0|16|0.00
+Minnesota|55|D|Matt Dumba|11|1|1|2|-2|6|0|0|1|23|4.30
+Minnesota|2|D|Keith Ballard|1|0|1|1|0|2|0|0|0|0|0.00
+Minnesota|56|C|Erik Haula|10|1|0|1|2|4|0|0|1|14|7.10
+Minnesota|19|L|Stephane Veilleux|3|0|0|0|-1|4|0|0|0|3|0.00
+Minnesota|44|D|Justin Falk|2|0|0|0|1|0|0|0|0|2|0.00
+Minnesota|5|D|Christian Folin|6|0|0|0|-2|7|0|0|0|6|0.00
+NY Rangers|61|L|Rick Nash|12|10|3|13|6|4|1|0|1|42|23.80
+NY Rangers|16|C|Derick Brassard|12|5|6|11|-1|8|1|0|1|27|18.50
+NY Rangers|26|R|Martin St. Louis|12|4|6|10|3|6|0|0|0|23|17.40
+NY Rangers|20|L|Chris Kreider|12|3|5|8|4|38|2|0|0|27|11.10
+NY Rangers|63|L|Anthony Duclair|10|1|5|6|5|2|0|0|0|13|7.70
+NY Rangers|12|R|Lee Stempniak|12|3|2|5|1|4|0|0|0|32|9.40
+NY Rangers|44|D|Matt Hunwick|10|0|5|5|0|6|0|0|0|10|0.00
+NY Rangers|62|L|Carl Hagelin|12|2|2|4|0|8|0|0|1|25|8.00
+NY Rangers|36|L|Mats Zuccarello|10|1|3|4|-2|9|0|0|1|19|5.30
+NY Rangers|28|C|Dominic Moore|12|0|3|3|0|6|0|0|0|21|0.00
+NY Rangers|8|D|Kevin Klein|11|2|1|3|2|7|0|0|1|8|25.00
+NY Rangers|5|D|Dan Girardi|12|0|3|3|0|2|0|0|0|25|0.00
+NY Rangers|27|D|Ryan McDonagh|10|0|3|3|0|4|0|0|0|22|0.00
+NY Rangers|18|D|Marc Staal|12|0|2|2|2|14|0|0|0|16|0.00
+NY Rangers||C|Chris Mueller|7|1|1|2|-1|0|1|0|0|10|10.00
+NY Rangers|13|R|Kevin Hayes|9|1|1|2|-1|4|0|0|0|14|7.10
+NY Rangers|4|D|Michael Kostka|4|0|1|1|0|0|0|0|0|7|0.00
+NY Rangers|17|D|John Moore|9|0|1|1|0|10|0|0|0|15|0.00
+NY Rangers|22|D|Dan Boyle|1|0|0|0|1|2|0|0|0|2|0.00
+NY Rangers|24|L|Ryan Malone|6|0|0|0|-4|4|0|0|0|6|0.00
+NY Rangers|15|L|Tanner Glass|12|0|0|0|-7|9|0|0|0|7|0.00
+NY Rangers||D|Dylan McIlrath|1|0|0|0|0|9|0|0|0|0|0.00
+NY Rangers||R|Jesper Fast|3|0|0|0|-1|0|0|0|0|3|0.00
+NY Rangers||C|J.T. Miller|3|0|0|0|-4|0|0|0|0|7|0.00
+NY Rangers|37|D|Conor Allen|2|0|0|0|0|2|0|0|0|1|0.00
+Colorado|9|C|Matt Duchene|15|4|6|10|-2|6|0|0|0|44|9.10
+Colorado|29|C|Nathan MacKinnon|15|4|6|10|-6|6|2|0|0|48|8.30
+Colorado|12|R|Jarome Iginla|15|2|7|9|0|8|0|0|0|32|6.30
+Colorado|6|D|Erik Johnson|15|2|7|9|3|21|1|0|0|34|5.90
+Colorado|90|C|Ryan O'Reilly|15|2|7|9|-11|4|1|0|0|38|5.30
+Colorado|4|D|Tyson Barrie|15|1|8|9|-8|8|1|0|0|26|3.80
+Colorado|40|L|Alex Tanguay|15|5|3|8|1|2|0|1|0|23|21.70
+Colorado|11|L|Jamie McGinn|15|4|2|6|-6|2|1|0|0|25|16.00
+Colorado|92|L|Gabriel Landeskog|15|4|2|6|-8|20|2|0|0|41|9.80
+Colorado|8|D|Jan Hejda|15|0|4|4|0|6|0|0|0|12|0.00
+Colorado|7|C|John Mitchell|11|2|2|4|0|8|0|1|0|10|20.00
+Colorado|48|C|Daniel Briere|10|2|1|3|-2|8|0|0|2|13|15.40
+Colorado|2|D|Nick Holden|15|1|2|3|-9|16|0|0|0|13|7.70
+Colorado|25|C|Maxime Talbot|15|0|2|2|-1|8|0|0|0|10|0.00
+Colorado|55|L|Cody McLeod|15|1|1|2|1|28|0|0|1|10|10.00
+Colorado|24|C|Marc-Andre Cliche|14|1|1|2|0|9|0|0|0|12|8.30
+Colorado|22|D|Zach Redmond|4|0|2|2|2|4|0|0|0|5|0.00
+Colorado|45|R|Dennis Everberg|10|1|1|2|0|0|0|0|0|15|6.70
+Colorado|5|D|Nate Guenin|9|0|1|1|-2|2|0|0|0|6|0.00
+Colorado|17|D|Brad Stuart|14|0|0|0|-4|6|0|0|0|8|0.00
+Colorado|44|D|Ryan Wilson|3|0|0|0|-3|0|0|0|0|3|0.00
+Dallas|91|C|Tyler Seguin|13|7|9|16|0|8|1|0|2|50|14.00
+Dallas|90|C|Jason Spezza|13|2|10|12|-4|2|1|0|0|27|7.40
+Dallas|14|L|Jamie Benn|13|5|6|11|-2|17|1|0|1|45|11.10
+Dallas|6|D|Trevor Daley|13|5|5|10|-3|6|4|0|0|21|23.80
+Dallas|33|D|Alex Goligoski|13|0|7|7|-4|2|0|0|0|14|0.00
+Dallas|21|L|Antoine Roussel|13|4|3|7|-1|29|0|0|0|21|19.00
+Dallas|16|L|Ryan Garbutt|13|1|5|6|-2|6|0|0|0|17|5.90
+Dallas|10|C|Shawn Horcoff|13|2|3|5|0|2|0|0|0|16|12.50
+Dallas|72|L|Erik Cole|12|3|1|4|0|2|1|0|0|16|18.80
+Dallas|38|C|Vernon Fiddler|13|2|2|4|0|9|0|0|0|16|12.50
+Dallas|18|R|Patrick Eaves|10|2|2|4|0|2|0|0|0|13|15.40
+Dallas|20|C|Cody Eakin|12|2|2|4|0|0|0|0|0|29|6.90
+Dallas|24|D|Jordie Benn|13|0|3|3|-1|10|0|0|0|14|0.00
+Dallas|22|C|Colton Sceviour|12|0|2|2|2|0|0|0|0|14|0.00
+Dallas|5|D|Jamie Oleksiak|9|1|1|2|1|4|0|0|0|11|9.10
+Dallas|83|R|Ales Hemsky|13|0|1|1|-5|0|0|0|0|21|0.00
+Dallas|23|D|Kevin Connauton|7|0|1|1|4|6|0|0|0|8|0.00
+Dallas|4|D|Brenden Dillon|13|0|1|1|-3|16|0|0|0|10|0.00
+Dallas|55|D|Sergei Gonchar|2|0|0|0|0|2|0|0|0|1|0.00
+Dallas|11|L|Curtis McKenzie|2|0|0|0|-1|0|0|0|0|2|0.00
+Dallas|37|D|Patrik Nemeth|5|0|0|0|1|2|0|0|0|3|0.00
+Dallas|2|D|Jyrki Jokipakka|3|0|0|0|-3|0|0|0|0|2|0.00
+Dallas|43|R|Valeri Nichushkin|4|0|0|0|-3|2|0|0|0|2|0.00
+Florida|24|R|Brad Boyes|11|2|4|6|0|4|2|0|1|20|10.00
+Florida|36|L|Jussi Jokinen|11|1|5|6|1|10|0|0|0|17|5.90
+Florida|5|D|Aaron Ekblad|11|1|3|4|-2|4|1|0|1|15|6.70
+Florida|51|D|Brian Campbell|11|0|3|3|-3|0|0|0|0|12|0.00
+Florida|17|C|Derek MacKenzie|11|1|2|3|-3|11|1|0|0|12|8.30
+Florida|20|L|Sean Bergenheim|8|2|1|3|2|8|0|0|1|17|11.80
+Florida|4|D|Dylan Olsen|11|0|3|3|1|4|0|0|0|6|0.00
+Florida|73|C|Brandon Pirri|4|3|0|3|2|0|1|0|0|14|21.40
+Florida|19|L|Scottie Upshall|11|1|1|2|0|16|0|0|1|16|6.30
+Florida|12|R|Jimmy Hayes|5|0|2|2|0|2|0|0|0|14|0.00
+Florida|7|D|Dmitry Kulikov|11|0|2|2|-1|6|0|0|0|13|0.00
+Florida|27|C|Nick Bjugstad|11|1|1|2|0|12|1|0|0|30|3.30
+Florida|44|D|Erik Gudbranson|11|1|1|2|2|15|0|0|0|17|5.90
+Florida|11|L|Jonathan Huberdeau|8|1|1|2|0|6|0|0|0|16|6.30
+Florida|33|D|Willie Mitchell|11|1|0|1|-1|4|0|0|0|11|9.10
+Florida|82|R|Tomas Kopecky|11|0|1|1|-2|10|0|0|0|13|0.00
+Florida|14|L|Tomas Fleischmann|11|0|1|1|2|2|0|0|0|20|0.00
+Florida|16|C|Aleksander Barkov|9|1|0|1|-2|4|0|0|0|13|7.70
+Florida|22|L|Shawn Thornton|9|0|0|0|-2|7|0|0|0|15|0.00
+Florida|63|C|Dave Bolland|4|0|0|0|0|4|0|0|0|3|0.00
+Florida|47|D|Colby Robak|2|0|0|0|0|0|0|0|0|2|0.00
+Florida|21|C|Vincent Trocheck|3|0|0|0|-1|2|0|0|0|3|0.00
+Florida|23|C|Rocco Grimaldi|3|0|0|0|-1|0|0|0|0|7|0.00
+Arizona|3|D|Keith Yandle|12|1|9|10|1|8|1|0|0|47|2.10
+Arizona|50|C|Antoine Vermette|12|3|6|9|-2|14|2|0|1|22|13.60
+Arizona|19|R|Shane Doan|12|3|5|8|-2|9|1|0|0|37|8.10
+Arizona|89|L|Mikkel Boedker|12|5|3|8|1|0|1|0|1|28|17.90
+Arizona|23|D|Oliver Ekman-Larsson|12|2|6|8|-11|8|2|0|2|46|4.30
+Arizona|11|C|Martin Hanzal|9|2|5|7|0|0|1|0|0|20|10.00
+Arizona|10|R|Martin Erat|12|4|2|6|-6|14|1|0|0|19|21.10
+Arizona|9|C|Sam Gagner|12|2|2|4|-3|8|0|0|0|24|8.30
+Arizona|28|L|Lauri Korpikoski|12|1|2|3|-7|0|1|0|0|15|6.70
+Arizona|26|D|Michael Stone|12|1|2|3|-2|6|0|0|0|26|3.80
+Arizona|4|D|Zbynek Michalek|12|0|2|2|-3|2|0|0|0|22|0.00
+Arizona|24|C|Kyle Chipchura|8|1|1|2|-1|16|0|0|0|4|25.00
+Arizona|14|C|Joe Vitale|12|0|2|2|-4|9|0|0|0|4|0.00
+Arizona|36|L|Rob Klinkhammer|11|2|0|2|1|4|0|0|0|17|11.80
+Arizona|18|R|David Moss|6|0|1|1|-6|4|0|0|0|6|0.00
+Arizona|44|R|B.J. Crombeen|8|1|0|1|-3|13|0|0|0|4|25.00
+Arizona|20|D|Chris Summers|5|0|1|1|-2|2|0|0|0|2|0.00
+Arizona|6|D|David Schlemko|6|0|1|1|-3|0|0|0|0|7|0.00
+Arizona|22|L|Brandon McMillan|12|0|1|1|-3|8|0|0|0|7|0.00
+Arizona|12|C|Justin Hodgman|4|1|0|1|-1|2|1|0|0|2|50.00
+Arizona|8|R|Tobias Rieder|2|1|0|1|3|0|0|0|1|4|25.00
+Arizona|5|D|Connor Murphy|12|1|0|1|-5|7|0|0|0|7|14.30
+Arizona|33|D|Brandon Gormley|1|0|0|0|0|2|0|0|0|2|0.00
+Washington|8|R|Alex Ovechkin|12|6|7|13|-2|8|3|0|1|58|10.30
+Washington|19|C|Nicklas Backstrom|12|3|10|13|-3|8|0|0|0|23|13.00
+Washington|52|D|Mike Green|11|3|6|9|3|2|1|0|0|25|12.00
+Washington|74|D|John Carlson|12|2|7|9|-3|6|1|0|0|32|6.30
+Washington|42|R|Joel Ward|12|6|2|8|-1|2|3|0|1|19|31.60
+Washington|20|R|Troy Brouwer|12|4|4|8|1|4|1|0|0|28|14.30
+Washington|90|C|Marcus Johansson|12|5|3|8|0|0|1|0|1|22|22.70
+Washington|65|L|Andre Burakovsky|12|2|6|8|2|6|1|0|0|17|11.80
+Washington|92|C|Evgeny Kuznetsov|12|1|5|6|2|4|1|0|0|21|4.80
+Washington|44|D|Brooks Orpik|12|0|3|3|-6|20|0|0|0|7|0.00
+Washington|16|R|Eric Fehr|10|1|2|3|3|6|0|0|0|25|4.00
+Washington|2|D|Matt Niskanen|12|0|3|3|-2|2|0|0|0|12|0.00
+Washington|43|R|Tom Wilson|4|1|2|3|-3|11|0|0|0|10|10.00
+Washington|25|L|Jason Chimera|12|1|1|2|-2|8|0|0|0|12|8.30
+Washington|27|D|Karl Alzner|12|0|2|2|-3|4|0|0|0|7|0.00
+Washington|87|C|Liam O'Brien|10|1|1|2|4|21|0|0|0|15|6.70
+Washington|21|C|Brooks Laich|5|0|1|1|-1|0|0|0|0|5|0.00
+Washington|67|C|Chris Brown|3|1|0|1|1|2|0|0|0|3|33.30
+Washington|46|C|Michael Latta|9|0|1|1|2|14|0|0|0|2|0.00
+Washington|83|R|Jay Beagle|7|0|0|0|-2|0|0|0|0|15|0.00
+Washington|38|D|Jack Hillen|1|0|0|0|1|0|0|0|0|0|0.00
+Washington|88|D|Nate Schmidt|12|0|0|0|6|4|0|0|0|10|0.00
+Edmonton|4|L|Taylor Hall|11|6|4|10|4|6|1|0|0|36|16.70
+Edmonton|14|R|Jordan Eberle|12|3|6|9|-3|10|1|0|0|25|12.00
+Edmonton|93|C|Ryan Nugent-Hopkins|11|4|4|8|-4|5|0|0|1|23|17.40
+Edmonton|57|L|David Perron|13|1|5|6|-7|0|0|0|0|30|3.30
+Edmonton|19|D|Justin Schultz|13|2|4|6|-5|2|0|0|0|20|10.00
+Edmonton|16|R|Teddy Purcell|13|1|4|5|-10|0|1|0|0|18|5.60
+Edmonton|26|C|Mark Arcobello|13|3|2|5|1|4|0|0|0|17|17.60
+Edmonton|10|R|Nail Yakupov|13|2|3|5|-5|2|0|0|0|31|6.50
+Edmonton|67|L|Benoit Pouliot|13|1|3|4|-4|6|0|0|1|16|6.30
+Edmonton|29|C|Leon Draisaitl|13|1|3|4|-6|0|0|0|1|20|5.00
+Edmonton|27|C|Boyd Gordon|13|1|2|3|-3|0|1|0|0|19|5.30
+Edmonton|86|D|Nikita Nikitin|10|1|2|3|-1|6|1|0|1|18|5.60
+Edmonton|5|D|Mark Fayne|13|1|2|3|-4|4|0|0|0|13|7.70
+Edmonton|6|L|Jesse Joensuu|13|2|1|3|-4|12|0|1|0|13|15.40
+Edmonton|23|L|Matt Hendricks|13|2|0|2|-5|25|0|0|0|16|12.50
+Edmonton|21|D|Andrew Ference|11|0|1|1|-1|6|0|0|0|8|0.00
+Edmonton|2|D|Jeff Petry|12|0|1|1|-3|4|0|0|0|20|0.00
+Edmonton|85|D|Martin Marincin|8|0|1|1|-2|2|0|0|0|4|0.00
+Edmonton|59|D|Brad Hunt|6|1|0|1|-6|0|1|0|0|7|14.30
+Edmonton|22|D|Keith Aulie|1|0|0|0|1|2|0|0|0|2|0.00
+Edmonton|41|C|Will Acton|3|0|0|0|-2|5|0|0|0|2|0.00
+Edmonton|62|R|Iiro Pakarinen|1|0|0|0|0|0|0|0|0|0|0.00
+Edmonton|84|D|Oscar Klefbom|2|0|0|0|-2|0|0|0|0|2|0.00
+Edmonton|39|C|Bogdan Yakimov|1|0|0|0|-1|0|0|0|0|1|0.00
+Edmonton|25|D|Darnell Nurse|2|0|0|0|-2|0|0|0|0|2|0.00
+Buffalo|21|R|Drew Stafford|14|2|5|7|-9|23|2|0|0|26|7.70
+Buffalo|63|C|Tyler Ennis|14|4|3|7|-7|4|0|1|0|24|16.70
+Buffalo|28|C|Zemgus Girgensons|14|2|2|4|-2|4|0|0|0|27|7.40
+Buffalo|24|D|Tyson Strachan|5|0|3|3|0|2|0|0|0|0|0.00
+Buffalo|82|L|Marcus Foligno|11|2|1|3|-5|4|0|0|0|15|13.30
+Buffalo|26|L|Matt Moulson|14|0|2|2|-7|2|0|0|0|24|0.00
+Buffalo|17|C|Torrey Mitchell|14|1|1|2|-4|8|0|0|0|9|11.10
+Buffalo|80|R|Chris Stewart|14|1|1|2|-5|11|0|0|0|36|2.80
+Buffalo|19|C|Cody Hodgson|14|1|1|2|-9|2|0|0|0|19|5.30
+Buffalo|57|D|Tyler Myers|14|0|2|2|-5|25|0|0|0|26|0.00
+Buffalo|12|R|Brian Gionta|14|0|1|1|-6|4|0|0|0|21|0.00
+Buffalo|8|C|Cody McCormick|14|0|1|1|-4|18|0|0|0|13|0.00
+Buffalo|41|D|Andrej Meszaros|11|0|1|1|-10|12|0|0|0|10|0.00
+Buffalo|44|L|Nicolas Deslauriers|14|1|0|1|-2|18|0|0|1|12|8.30
+Buffalo|65|C|Brian Flynn|5|1|0|1|-1|0|0|0|0|6|16.70
+Buffalo|23|C|Sam Reinhart|9|0|1|1|-1|2|0|0|0|3|0.00
+Buffalo|4|D|Josh Gorges|14|0|0|0|-6|6|0|0|0|6|0.00
+Buffalo|61|D|Andre Benoit|12|0|0|0|-9|8|0|0|0|11|0.00
+Buffalo|6|D|Mike Weber|12|0|0|0|-6|13|0|0|0|5|0.00
+Buffalo|22|L|Johan Larsson|2|0|0|0|-1|0|0|0|0|0|0.00
+Buffalo|55|D|Rasmus Ristolainen|14|0|0|0|-8|6|0|0|0|10|0.00
+Buffalo|51|D|Nikita Zadorov|3|0|0|0|1|0|0|0|0|1|0.00
+Columbus|19|C|Ryan Johansen|12|5|9|14|-5|6|2|0|0|35|14.30
+Columbus|71|L|Nick Foligno|11|6|7|13|2|9|3|0|0|26|23.10
+Columbus|43|L|Scott Hartnell|12|1|9|10|-7|21|1|0|0|44|2.30
+Columbus|13|R|Cam Atkinson|11|5|2|7|-5|0|2|0|2|38|13.20
+Columbus|7|D|Jack Johnson|12|0|5|5|-11|10|0|0|0|15|0.00
+Columbus|55|C|Mark Letestu|9|3|2|5|-1|0|0|1|1|16|18.80
+Columbus|58|D|David Savard|12|2|3|5|-5|8|1|0|0|14|14.30
+Columbus|42|C|Artem Anisimov|9|2|2|4|-4|4|0|0|0|13|15.40
+Columbus|21|D|James Wisniewski|9|0|3|3|-1|6|0|0|0|28|0.00
+Columbus|10|R|Jack Skille|12|3|0|3|0|9|0|0|0|27|11.10
+Columbus|47|D|Dalton Prout|9|0|3|3|0|0|0|0|0|7|0.00
+Columbus|11|L|Matt Calvert|8|1|1|2|-3|6|0|0|1|10|10.00
+Columbus|20|D|Tim Erixon|11|1|1|2|-2|2|1|0|0|13|7.70
+Columbus|39|C|Michael Chaput|12|0|2|2|-2|6|0|0|0|10|0.00
+Columbus|23|C|Brian Gibbons|2|0|2|2|2|4|0|0|0|0|0.00
+Columbus|56|C|Marko Dano|8|1|1|2|0|0|0|0|0|14|7.10
+Columbus|41|C|Alexander Wennberg|11|0|2|2|-9|2|0|0|0|13|0.00
+Columbus|51|D|Fedor Tyutin|12|0|1|1|1|2|0|0|0|12|0.00
+Columbus|40|R|Jared Boll|12|0|1|1|-3|28|0|0|0|7|0.00
+Columbus|26|R|Corey Tropp|5|0|1|1|-1|25|0|0|0|1|0.00
+Columbus|32|R|Adam Cracknell|6|0|0|0|-4|2|0|0|0|6|0.00
+Columbus|28|D|Frédéric St-Denis|1|0|0|0|0|0|0|0|0|0|0.00
+Columbus|29|D|Cody Goloubef|3|0|0|0|-1|2|0|0|0|2|0.00
+Columbus|37|C|Sean Collins|2|0|0|0|-1|0|0|0|0|1|0.00
+Columbus|38|C|Boone Jenner|1|0|0|0|-1|0|0|0|0|1|0.00
+Columbus|27|D|Ryan Murray|4|0|0|0|-3|2|0|0|0|1|0.00
+Carolina|19|L|Jiri Tlusty|11|6|2|8|-3|4|4|0|0|20|30.00
+Carolina|20|C|Riley Nash|11|3|5|8|1|0|0|0|0|18|16.70
+Carolina|25|L|Chris Terry|11|4|3|7|3|4|1|0|0|10|40.00
+Carolina|16|C|Elias Lindholm|11|3|3|6|-3|2|0|0|2|24|12.50
+Carolina|12|C|Eric Staal|6|2|3|5|-2|0|1|0|0|15|13.30
+Carolina|4|D|Andrej Sekera|10|0|5|5|-1|2|0|0|0|10|0.00
+Carolina|27|D|Justin Faulk|11|1|4|5|-5|6|0|1|1|26|3.80
+Carolina|22|L|Zach Boychuk|9|2|2|4|5|0|0|0|0|19|10.50
+Carolina|44|D|Jay Harrison|9|1|2|3|-2|36|0|0|0|13|7.70
+Carolina|14|L|Nathan Gerbe|7|1|2|3|3|4|1|0|0|21|4.80
+Carolina|6|D|Tim Gleason|11|0|2|2|-2|12|0|0|0|8|0.00
+Carolina|18|C|Jay McClement|11|0|2|2|-3|5|0|0|0|11|0.00
+Carolina|28|R|Alexander Semin|9|0|2|2|-7|4|0|0|0|12|0.00
+Carolina|73|D|Brett Bellemore|6|0|2|2|0|8|0|0|0|4|0.00
+Carolina|53|L|Jeff Skinner|7|1|1|2|-5|4|0|0|0|21|4.80
+Carolina|65|D|Ron Hainsey|10|0|1|1|-4|0|0|0|0|11|0.00
+Carolina|26|D|John-Michael Liles|5|0|1|1|-3|0|0|0|0|5|0.00
+Carolina|49|C|Victor Rask|11|1|0|1|-3|4|0|0|0|28|3.60
+Carolina|7|D|Ryan Murphy|6|0|1|1|-3|2|0|0|0|13|0.00
+Carolina|39|R|Patrick Dwyer|5|0|0|0|-1|0|0|0|0|2|0.00
+Carolina|24|C|Brad Malone|10|0|0|0|-7|6|0|0|0|10|0.00
+Carolina|48|C|Brody Sutter|4|0|0|0|-2|0|0|0|0|0|0.00
+Carolina|36|C|Patrick Brown|7|0|0|0|-4|4|0|0|0|4|0.00

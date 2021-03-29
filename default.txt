@@ -1,0 +1,114 @@
+------------------[ THREAD TITLES ]-------------------------
+Game Thread: {away:short} at {home:short} - {date:mmddyyyy} - {gametime:local} {gametime:timezone}
+Game Thread: {away:short} ({away:stats:w}-{away:stats:l}-{away:stats:ot}) at {home:short} ({home:stats:w}-{home:stats:l}-{home:stats:ot}) - {date:mmddyyyy} - {gametime:local} {gametime:timezone}
+Game Thread: #{away:stats:rank} {away:short} ({away:stats:w}-{away:stats:l}-{away:stats:ot}) at #{home:stats:rank} {home:short} ({home:stats:w}-{home:stats:l}-{home:stats:ot}) - {date:mmddyyyy} - {gametime:local} {gametime:timezone}
+
+------------------[ GAME THREAD ]-------------------------
+|GAME DAY: {date:dayofweek} {date:mmddyyyy}|
+|:--:|
+|{home:arena} - {home:arenaplace}|
+|#{away:stats:rank} {away:short} ({away:stats:w}-{away:stats:l}-{away:stats:ot}) @ #{home:stats:rank} {home:short} ({home:stats:w}-{home:stats:l}-{home:stats:ot})|
+
+|||
+|:--:|:--:|
+| **Time** | {gametime:pst} PT - {gametime:mst} MT - {gametime:cst} CT - {gametime:est} ET - {gametime:ast} AT|
+| **TV** | {game:broadcast} |
+| **{home:short} Streams** | {home:streams:800,1600,3000} |
+| **{away:short} Streams** | {away:streams:800,1600,3000} |  
+| **Listen** | {home:radio} - {away:radio} |
+| **Talk** | **[#Reddit-Hockey on FreeNode](http://webchat.freenode.net/?channels=reddit-hockey)** |
+| **Comment Stream** | [Reddit-Stream]() |
+| **NHL Links** | [Preview](http://www.nhl.com/gamecenter/en/preview?id={game:nhlgameid}) - [Box Score](http://www.nhl.com/gamecenter/en/boxscore?id={game:nhlgameid}) - [Recap](http://www.nhl.com/gamecenter/en/recap?id={game:nhlgameid})|
+
+# Team Stats
+
+{league:rankings:Rank,redditicon,Team,W,L,OT,P,PP%,PK%,FO%}
+
+# Season Series
+
+{schedule:versus:Date,Home,Away,Network/Result:icons}
+
+## {away:short} Next Game
+
+{schedule:away:icons,future,limit=1}
+
+## {home:short} Next Game
+
+{schedule:home:icons,future,limit=1}
+
+# Game Preview
+
+## Team Leaders
+
+{away:players:redditicon,Num,Name,Pos,GP,G,A,P,+/-,PIM,PP,S:limit=3}
+{home:players:redditicon,Num,Name,Pos,GP,G,A,P,+/-,PIM,PP,S:limit=3,noheader}
+
+
+## Goalie Situation
+
+{away:goalies:redditicon,Num,Name,W,L,SO,SV%:limit=2}
+{home:goalies:redditicon,Num,Name,W,L,SO,SV%:noheader,limit=2}
+
+
+## Injury Report
+{home:injuries:redditicon,Player,Injury}
+{away:injuries:redditicon,Player,Injury:noheader}
+
+## Projected Lineups
+
+| | Left | Center | Right | | Left | Center | Right |
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:
+|{away:redditicon}| {away:oleft1} | {away:ocenter1} | {away:oright1} |{home:redditicon}| {home:oleft1} | {home:ocenter1} | {home:oright1} |
+|{away:redditicon}| {away:oleft2} | {away:ocenter2} | {away:oright2} |{home:redditicon}| {home:oleft2} | {home:ocenter2} | {home:oright2} |
+|{away:redditicon}| {away:oleft3} | {away:ocenter3} | {away:oright3} |{home:redditicon}| {home:oleft3} | {home:ocenter3} | {home:oright3} |
+|{away:redditicon}| {away:oleft4} | {away:ocenter4} | {away:oright4} |{home:redditicon}| {home:oleft4} | {home:ocenter4} | {home:oright4} |
+
+| | Left D | Right D | | Left D | Right D |
+:--: | :--: | :--: | :--: | :--: | :--: 
+|{away:redditicon}| {away:dleft1} | {away:dright1} |{home:redditicon}| {home:dleft1} | {home:dright1} |
+|{away:redditicon}| {away:dleft2} | {away:dright2} |{home:redditicon}| {home:dleft2} | {home:dright2} |
+|{away:redditicon}| {away:dleft3} | {away:dright3} |{home:redditicon}| {home:dleft3} | {home:dright3} |
+
+|| Goaltenders || Goaltenders |
+:--: | :--: | :--: | :--:
+|{away:redditicon}| {away:goalie1} |{home:redditicon}| {home:goalie1} |
+|{away:redditicon}| {away:goalie2} |{home:redditicon}| {home:goalie2} |
+
+
+# Live Game Stats
+
+|Points						|1|2|3|OT|Final||SOG|1|2|3|OT|Final|
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+{away:redditabbr}			|-|-|-|-|-|		|{away:nameabbr}|-|-|-|-|-|
+{home:redditabbr}			|-|-|-|-|-|		|{home:nameabbr}|-|-|-|-|-|
+
+
+## Period 1 Goals
+
+
+## Period 1 Penalties
+
+
+## Period 2 Goals
+
+
+## Period 2 Penalties
+
+
+## Period 3 Goals
+
+
+## Period 3 Penalties
+
+
+
+# Thread Notes
+
+* Discuss whatever you wish, you can trash talk, but keep it civil!
+* Turning comment sort to 'new' will help you see the newest posts.
+* Try [Chrome Refresh](https://chrome.google.com/webstore/detail/chrome-refresh/aifhnlnghddfdaccgbbpbhjfkmncekmn) or [Firefox ReloadEvery](https://addons.mozilla.org/en-US/firefox/addon/reloadevery/) to auto-refresh this tab or the Reddit Stream link posted above.
+* Feel free to message me with any errors or suggestions for future threads.
+
+**Lets have a good discussion and a good game. Good luck to both teams!**
+
+*^Game ^thread ^generated ^automatically ^with ^[GameTime](/r/gametime)*

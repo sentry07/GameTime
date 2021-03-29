@@ -1,0 +1,3106 @@
+{
+  "copyright" : "NHL and the NHL Shield are registered trademarks of the National Hockey League. NHL and NHL team marks are the property of the NHL and its teams. © NHL 2019. All Rights Reserved.",
+  "teams" : [ {
+    "id" : 16,
+    "name" : "Chicago Blackhawks",
+    "link" : "/api/v1/teams/16",
+    "venue" : {
+      "id" : 5092,
+      "name" : "United Center",
+      "link" : "/api/v1/venues/5092",
+      "city" : "Chicago",
+      "timeZone" : {
+        "id" : "America/Chicago",
+        "offset" : -5,
+        "tz" : "CDT"
+      }
+    },
+    "abbreviation" : "CHI",
+    "teamName" : "Blackhawks",
+    "locationName" : "Chicago",
+    "firstYearOfPlay" : "1926",
+    "division" : {
+      "id" : 16,
+      "name" : "Central",
+      "nameShort" : "CEN",
+      "link" : "/api/v1/divisions/16",
+      "abbreviation" : "C"
+    },
+    "conference" : {
+      "id" : 5,
+      "name" : "Western",
+      "link" : "/api/v1/conferences/5"
+    },
+    "franchise" : {
+      "franchiseId" : 11,
+      "firstSeasonId" : 19261927,
+      "mostRecentTeamId" : 16,
+      "teamName" : "Blackhawks",
+      "locationName" : "Chicago",
+      "link" : "/api/v1/franchises/11",
+      "roster" : {
+        "roster" : [ {
+          "person" : {
+            "id" : 8469544,
+            "fullName" : "Patrick Sharp",
+            "link" : "/api/v1/people/8469544",
+            "firstName" : "Patrick",
+            "lastName" : "Sharp",
+            "primaryNumber" : "10",
+            "birthDate" : "1981-12-27",
+            "birthCity" : "Winnipeg",
+            "birthStateProvince" : "MB",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "6' 1\"",
+            "weight" : 200,
+            "active" : false,
+            "rookie" : false,
+            "shootsCatches" : "R",
+            "rosterStatus" : "Y",
+            "primaryPosition" : {
+              "code" : "L",
+              "name" : "Left Wing",
+              "type" : "Forward",
+              "abbreviation" : "LW"
+            },
+            "otherNames" : {
+              "slug" : "patrick-sharp-8469544",
+              "lastFirstName" : "Sharp, Patrick",
+              "firstLastNameRoman" : "Patrick Sharp"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "901:51",
+                  "assists" : 11,
+                  "goals" : 10,
+                  "pim" : 14,
+                  "shots" : 143,
+                  "games" : 70,
+                  "hits" : 46,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 4,
+                  "powerPlayTimeOnIce" : "109:26",
+                  "evenTimeOnIce" : "789:46",
+                  "penaltyMinutes" : "14",
+                  "faceOffPct" : 55.2,
+                  "shotPct" : 7.0,
+                  "gameWinningGoals" : 1,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "02:39",
+                  "blocked" : 25,
+                  "plusMinus" : -16,
+                  "points" : 21,
+                  "shifts" : 1195,
+                  "timeOnIcePerGame" : "12:53",
+                  "evenTimeOnIcePerGame" : "11:16",
+                  "shortHandedTimeOnIcePerGame" : "00:02",
+                  "powerPlayTimeOnIcePerGame" : "01:33"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "10",
+          "position" : {
+            "code" : "L",
+            "name" : "Left Wing",
+            "type" : "Forward",
+            "abbreviation" : "LW"
+          }
+        }, {
+          "person" : {
+            "id" : 8470281,
+            "fullName" : "Duncan Keith",
+            "link" : "/api/v1/people/8470281",
+            "firstName" : "Duncan",
+            "lastName" : "Keith",
+            "primaryNumber" : "2",
+            "birthDate" : "1983-07-16",
+            "currentAge" : 36,
+            "birthCity" : "Winnipeg",
+            "birthStateProvince" : "MB",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "6' 1\"",
+            "weight" : 192,
+            "active" : true,
+            "alternateCaptain" : true,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "D",
+              "name" : "Defenseman",
+              "type" : "Defenseman",
+              "abbreviation" : "D"
+            },
+            "otherNames" : {
+              "slug" : "duncan-keith-8470281",
+              "lastFirstName" : "Keith, Duncan",
+              "firstLastNameRoman" : "Duncan Keith"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1953:49",
+                  "assists" : 30,
+                  "goals" : 2,
+                  "pim" : 28,
+                  "shots" : 187,
+                  "games" : 82,
+                  "hits" : 41,
+                  "powerPlayGoals" : 2,
+                  "powerPlayPoints" : 10,
+                  "powerPlayTimeOnIce" : "212:51",
+                  "evenTimeOnIce" : "1541:55",
+                  "penaltyMinutes" : "28",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 1.1,
+                  "gameWinningGoals" : 1,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "199:03",
+                  "blocked" : 165,
+                  "plusMinus" : -29,
+                  "points" : 32,
+                  "shifts" : 2419,
+                  "timeOnIcePerGame" : "23:49",
+                  "evenTimeOnIcePerGame" : "18:48",
+                  "shortHandedTimeOnIcePerGame" : "02:25",
+                  "powerPlayTimeOnIcePerGame" : "02:35"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "2",
+          "position" : {
+            "code" : "D",
+            "name" : "Defenseman",
+            "type" : "Defenseman",
+            "abbreviation" : "D"
+          }
+        }, {
+          "person" : {
+            "id" : 8470607,
+            "fullName" : "Brent Seabrook",
+            "link" : "/api/v1/people/8470607",
+            "firstName" : "Brent",
+            "lastName" : "Seabrook",
+            "primaryNumber" : "7",
+            "birthDate" : "1985-04-20",
+            "currentAge" : 34,
+            "birthCity" : "Richmond",
+            "birthStateProvince" : "BC",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "6' 3\"",
+            "weight" : 220,
+            "active" : true,
+            "alternateCaptain" : true,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "R",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "D",
+              "name" : "Defenseman",
+              "type" : "Defenseman",
+              "abbreviation" : "D"
+            },
+            "otherNames" : {
+              "slug" : "brent-seabrook-8470607",
+              "lastFirstName" : "Seabrook, Brent",
+              "firstLastNameRoman" : "Brent Seabrook"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1635:59",
+                  "assists" : 19,
+                  "goals" : 7,
+                  "pim" : 38,
+                  "shots" : 136,
+                  "games" : 81,
+                  "hits" : 85,
+                  "powerPlayGoals" : 2,
+                  "powerPlayPoints" : 8,
+                  "powerPlayTimeOnIce" : "171:10",
+                  "evenTimeOnIce" : "1292:12",
+                  "penaltyMinutes" : "38",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 5.1,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "172:37",
+                  "blocked" : 170,
+                  "plusMinus" : -3,
+                  "points" : 26,
+                  "shifts" : 2329,
+                  "timeOnIcePerGame" : "20:11",
+                  "evenTimeOnIcePerGame" : "15:57",
+                  "shortHandedTimeOnIcePerGame" : "02:07",
+                  "powerPlayTimeOnIcePerGame" : "02:06"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "7",
+          "position" : {
+            "code" : "D",
+            "name" : "Defenseman",
+            "type" : "Defenseman",
+            "abbreviation" : "D"
+          }
+        }, {
+          "person" : {
+            "id" : 8471742,
+            "fullName" : "Cody Franson",
+            "link" : "/api/v1/people/8471742",
+            "firstName" : "Cody",
+            "lastName" : "Franson",
+            "primaryNumber" : "11",
+            "birthDate" : "1987-08-08",
+            "birthCity" : "Sicamous",
+            "birthStateProvince" : "BC",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "6' 5\"",
+            "weight" : 224,
+            "active" : false,
+            "rookie" : false,
+            "shootsCatches" : "R",
+            "rosterStatus" : "N",
+            "primaryPosition" : {
+              "code" : "D",
+              "name" : "Defenseman",
+              "type" : "Defenseman",
+              "abbreviation" : "D"
+            },
+            "otherNames" : {
+              "slug" : "cody-franson-8471742",
+              "lastFirstName" : "Franson, Cody",
+              "firstLastNameRoman" : "Cody Franson"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "382:10",
+                  "assists" : 6,
+                  "goals" : 1,
+                  "pim" : 8,
+                  "shots" : 51,
+                  "games" : 23,
+                  "hits" : 18,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 4,
+                  "powerPlayTimeOnIce" : "50:06",
+                  "evenTimeOnIce" : "330:54",
+                  "penaltyMinutes" : "8",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 2.0,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "01:10",
+                  "blocked" : 18,
+                  "plusMinus" : -1,
+                  "points" : 7,
+                  "shifts" : 524,
+                  "timeOnIcePerGame" : "16:36",
+                  "evenTimeOnIcePerGame" : "14:23",
+                  "shortHandedTimeOnIcePerGame" : "00:03",
+                  "powerPlayTimeOnIcePerGame" : "02:10"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "11",
+          "position" : {
+            "code" : "D",
+            "name" : "Defenseman",
+            "type" : "Defenseman",
+            "abbreviation" : "D"
+          }
+        }, {
+          "person" : {
+            "id" : 8473573,
+            "fullName" : "Artem Anisimov",
+            "link" : "/api/v1/people/8473573",
+            "firstName" : "Artem",
+            "lastName" : "Anisimov",
+            "primaryNumber" : "51",
+            "birthDate" : "1988-05-24",
+            "currentAge" : 31,
+            "birthCity" : "Yaroslavl",
+            "birthCountry" : "RUS",
+            "nationality" : "RUS",
+            "height" : "6' 4\"",
+            "weight" : 198,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 9,
+              "name" : "Ottawa Senators",
+              "link" : "/api/v1/teams/9"
+            },
+            "primaryPosition" : {
+              "code" : "C",
+              "name" : "Center",
+              "type" : "Forward",
+              "abbreviation" : "C"
+            },
+            "otherNames" : {
+              "slug" : "artem-anisimov-8473573",
+              "lastFirstName" : "Anisimov, Artem",
+              "firstLastNameRoman" : "Artem Anisimov"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1208:47",
+                  "assists" : 11,
+                  "goals" : 20,
+                  "pim" : 22,
+                  "shots" : 130,
+                  "games" : 72,
+                  "hits" : 15,
+                  "powerPlayGoals" : 11,
+                  "powerPlayPoints" : 12,
+                  "powerPlayTimeOnIce" : "195:51",
+                  "evenTimeOnIce" : "907:44",
+                  "penaltyMinutes" : "22",
+                  "faceOffPct" : 45.71,
+                  "shotPct" : 15.4,
+                  "gameWinningGoals" : 6,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 1,
+                  "shortHandedPoints" : 1,
+                  "shortHandedTimeOnIce" : "105:12",
+                  "blocked" : 40,
+                  "plusMinus" : -17,
+                  "points" : 31,
+                  "shifts" : 1568,
+                  "timeOnIcePerGame" : "16:47",
+                  "evenTimeOnIcePerGame" : "12:36",
+                  "shortHandedTimeOnIcePerGame" : "01:27",
+                  "powerPlayTimeOnIcePerGame" : "02:43"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "51",
+          "position" : {
+            "code" : "C",
+            "name" : "Center",
+            "type" : "Forward",
+            "abbreviation" : "C"
+          }
+        }, {
+          "person" : {
+            "id" : 8473604,
+            "fullName" : "Jonathan Toews",
+            "link" : "/api/v1/people/8473604",
+            "firstName" : "Jonathan",
+            "lastName" : "Toews",
+            "primaryNumber" : "19",
+            "birthDate" : "1988-04-29",
+            "currentAge" : 31,
+            "birthCity" : "Winnipeg",
+            "birthStateProvince" : "MB",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "6' 2\"",
+            "weight" : 201,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : true,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "C",
+              "name" : "Center",
+              "type" : "Forward",
+              "abbreviation" : "C"
+            },
+            "otherNames" : {
+              "slug" : "jonathan-toews-8473604",
+              "lastFirstName" : "Toews, Jonathan",
+              "firstLastNameRoman" : "Jonathan Toews"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1457:06",
+                  "assists" : 32,
+                  "goals" : 20,
+                  "pim" : 47,
+                  "shots" : 211,
+                  "games" : 74,
+                  "hits" : 32,
+                  "powerPlayGoals" : 2,
+                  "powerPlayPoints" : 12,
+                  "powerPlayTimeOnIce" : "232:40",
+                  "evenTimeOnIce" : "1098:22",
+                  "penaltyMinutes" : "47",
+                  "faceOffPct" : 57.95,
+                  "shotPct" : 9.5,
+                  "gameWinningGoals" : 2,
+                  "overTimeGoals" : 1,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "126:04",
+                  "blocked" : 24,
+                  "plusMinus" : -1,
+                  "points" : 52,
+                  "shifts" : 1827,
+                  "timeOnIcePerGame" : "19:41",
+                  "evenTimeOnIcePerGame" : "14:50",
+                  "shortHandedTimeOnIcePerGame" : "01:42",
+                  "powerPlayTimeOnIcePerGame" : "03:08"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "19",
+          "position" : {
+            "code" : "C",
+            "name" : "Center",
+            "type" : "Forward",
+            "abbreviation" : "C"
+          }
+        }, {
+          "person" : {
+            "id" : 8474141,
+            "fullName" : "Patrick Kane",
+            "link" : "/api/v1/people/8474141",
+            "firstName" : "Patrick",
+            "lastName" : "Kane",
+            "primaryNumber" : "88",
+            "birthDate" : "1988-11-19",
+            "currentAge" : 30,
+            "birthCity" : "Buffalo",
+            "birthStateProvince" : "NY",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "5' 10\"",
+            "weight" : 177,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "R",
+              "name" : "Right Wing",
+              "type" : "Forward",
+              "abbreviation" : "RW"
+            },
+            "otherNames" : {
+              "slug" : "patrick-kane-8474141",
+              "lastFirstName" : "Kane, Patrick",
+              "firstLastNameRoman" : "Patrick Kane"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1655:18",
+                  "assists" : 49,
+                  "goals" : 27,
+                  "pim" : 32,
+                  "shots" : 285,
+                  "games" : 82,
+                  "hits" : 18,
+                  "powerPlayGoals" : 5,
+                  "powerPlayPoints" : 22,
+                  "powerPlayTimeOnIce" : "279:27",
+                  "evenTimeOnIce" : "1369:52",
+                  "penaltyMinutes" : "32",
+                  "faceOffPct" : 38.88,
+                  "shotPct" : 9.5,
+                  "gameWinningGoals" : 4,
+                  "overTimeGoals" : 2,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "05:59",
+                  "blocked" : 14,
+                  "plusMinus" : -20,
+                  "points" : 76,
+                  "shifts" : 1872,
+                  "timeOnIcePerGame" : "20:11",
+                  "evenTimeOnIcePerGame" : "16:42",
+                  "shortHandedTimeOnIcePerGame" : "00:04",
+                  "powerPlayTimeOnIcePerGame" : "03:24"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "88",
+          "position" : {
+            "code" : "R",
+            "name" : "Right Wing",
+            "type" : "Forward",
+            "abbreviation" : "RW"
+          }
+        }, {
+          "person" : {
+            "id" : 8474642,
+            "fullName" : "Lance Bouma",
+            "link" : "/api/v1/people/8474642",
+            "firstName" : "Lance",
+            "lastName" : "Bouma",
+            "primaryNumber" : "17",
+            "birthDate" : "1990-03-25",
+            "birthCity" : "Provost",
+            "birthStateProvince" : "AB",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "6' 2\"",
+            "weight" : 208,
+            "active" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "N",
+            "primaryPosition" : {
+              "code" : "L",
+              "name" : "Left Wing",
+              "type" : "Forward",
+              "abbreviation" : "LW"
+            },
+            "otherNames" : {
+              "slug" : "lance-bouma-8474642",
+              "lastFirstName" : "Bouma, Lance",
+              "firstLastNameRoman" : "Lance Bouma"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "564:28",
+                  "assists" : 6,
+                  "goals" : 3,
+                  "pim" : 36,
+                  "shots" : 56,
+                  "games" : 53,
+                  "hits" : 132,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 1,
+                  "powerPlayTimeOnIce" : "14:07",
+                  "evenTimeOnIce" : "501:59",
+                  "penaltyMinutes" : "36",
+                  "faceOffPct" : 42.42,
+                  "shotPct" : 5.4,
+                  "gameWinningGoals" : 1,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "48:22",
+                  "blocked" : 27,
+                  "plusMinus" : 1,
+                  "points" : 9,
+                  "shifts" : 839,
+                  "timeOnIcePerGame" : "10:39",
+                  "evenTimeOnIcePerGame" : "09:28",
+                  "shortHandedTimeOnIcePerGame" : "00:54",
+                  "powerPlayTimeOnIcePerGame" : "00:15"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "17",
+          "position" : {
+            "code" : "L",
+            "name" : "Left Wing",
+            "type" : "Forward",
+            "abbreviation" : "LW"
+          }
+        }, {
+          "person" : {
+            "id" : 8474739,
+            "fullName" : "Tommy Wingels",
+            "link" : "/api/v1/people/8474739",
+            "firstName" : "Tommy",
+            "lastName" : "Wingels",
+            "primaryNumber" : "57",
+            "birthDate" : "1988-04-12",
+            "birthCity" : "Evanston",
+            "birthStateProvince" : "IL",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "6' 0\"",
+            "weight" : 200,
+            "active" : false,
+            "rookie" : false,
+            "shootsCatches" : "R",
+            "rosterStatus" : "Y",
+            "primaryPosition" : {
+              "code" : "C",
+              "name" : "Center",
+              "type" : "Forward",
+              "abbreviation" : "C"
+            },
+            "otherNames" : {
+              "slug" : "tommy-wingels-8474739",
+              "lastFirstName" : "Wingels, Tommy",
+              "firstLastNameRoman" : "Tommy Wingels"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "861:27",
+                  "assists" : 8,
+                  "goals" : 9,
+                  "pim" : 45,
+                  "shots" : 86,
+                  "games" : 75,
+                  "hits" : 179,
+                  "powerPlayGoals" : 1,
+                  "powerPlayPoints" : 1,
+                  "powerPlayTimeOnIce" : "21:10",
+                  "evenTimeOnIce" : "745:12",
+                  "penaltyMinutes" : "45",
+                  "faceOffPct" : 46.37,
+                  "shotPct" : 10.5,
+                  "gameWinningGoals" : 1,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 2,
+                  "shortHandedPoints" : 2,
+                  "shortHandedTimeOnIce" : "95:05",
+                  "blocked" : 41,
+                  "plusMinus" : -11,
+                  "points" : 17,
+                  "shifts" : 1312,
+                  "timeOnIcePerGame" : "11:29",
+                  "evenTimeOnIcePerGame" : "09:56",
+                  "shortHandedTimeOnIcePerGame" : "01:16",
+                  "powerPlayTimeOnIcePerGame" : "00:16"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "57",
+          "position" : {
+            "code" : "C",
+            "name" : "Center",
+            "type" : "Forward",
+            "abbreviation" : "C"
+          }
+        }, {
+          "person" : {
+            "id" : 8475209,
+            "fullName" : "Richard Panik",
+            "link" : "/api/v1/people/8475209",
+            "firstName" : "Richard",
+            "lastName" : "Panik",
+            "primaryNumber" : "14",
+            "birthDate" : "1991-02-07",
+            "currentAge" : 28,
+            "birthCity" : "Martin",
+            "birthCountry" : "SVK",
+            "nationality" : "SVK",
+            "height" : "6' 1\"",
+            "weight" : 208,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 15,
+              "name" : "Washington Capitals",
+              "link" : "/api/v1/teams/15"
+            },
+            "primaryPosition" : {
+              "code" : "R",
+              "name" : "Right Wing",
+              "type" : "Forward",
+              "abbreviation" : "RW"
+            },
+            "otherNames" : {
+              "slug" : "richard-panik-8475209",
+              "lastFirstName" : "Panik, Richard",
+              "firstLastNameRoman" : "Richard Panik"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1094:12",
+                  "assists" : 21,
+                  "goals" : 14,
+                  "pim" : 38,
+                  "shots" : 136,
+                  "games" : 72,
+                  "hits" : 137,
+                  "powerPlayGoals" : 4,
+                  "powerPlayPoints" : 6,
+                  "powerPlayTimeOnIce" : "136:44",
+                  "evenTimeOnIce" : "944:29",
+                  "penaltyMinutes" : "38",
+                  "faceOffPct" : 33.33,
+                  "shotPct" : 10.3,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "12:59",
+                  "blocked" : 37,
+                  "plusMinus" : 7,
+                  "points" : 35,
+                  "shifts" : 1435,
+                  "timeOnIcePerGame" : "15:11",
+                  "evenTimeOnIcePerGame" : "13:07",
+                  "shortHandedTimeOnIcePerGame" : "00:10",
+                  "powerPlayTimeOnIcePerGame" : "01:53"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "14",
+          "position" : {
+            "code" : "R",
+            "name" : "Right Wing",
+            "type" : "Forward",
+            "abbreviation" : "RW"
+          }
+        }, {
+          "person" : {
+            "id" : 8476430,
+            "fullName" : "Tomas Jurco",
+            "link" : "/api/v1/people/8476430",
+            "firstName" : "Tomas",
+            "lastName" : "Jurco",
+            "primaryNumber" : "92",
+            "birthDate" : "1992-12-28",
+            "currentAge" : 26,
+            "birthCity" : "Kosice",
+            "birthCountry" : "SVK",
+            "nationality" : "SVK",
+            "height" : "6' 2\"",
+            "weight" : 188,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 22,
+              "name" : "Edmonton Oilers",
+              "link" : "/api/v1/teams/22"
+            },
+            "primaryPosition" : {
+              "code" : "R",
+              "name" : "Right Wing",
+              "type" : "Forward",
+              "abbreviation" : "RW"
+            },
+            "otherNames" : {
+              "slug" : "tomas-jurco-8476430",
+              "lastFirstName" : "Jurco, Tomas",
+              "firstLastNameRoman" : "Tomas Jurco"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "365:54",
+                  "assists" : 4,
+                  "goals" : 6,
+                  "pim" : 12,
+                  "shots" : 44,
+                  "games" : 29,
+                  "hits" : 22,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "06:58",
+                  "evenTimeOnIce" : "354:15",
+                  "penaltyMinutes" : "12",
+                  "faceOffPct" : 25.0,
+                  "shotPct" : 13.6,
+                  "gameWinningGoals" : 1,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "04:41",
+                  "blocked" : 12,
+                  "plusMinus" : 1,
+                  "points" : 10,
+                  "shifts" : 496,
+                  "timeOnIcePerGame" : "12:37",
+                  "evenTimeOnIcePerGame" : "12:12",
+                  "shortHandedTimeOnIcePerGame" : "00:09",
+                  "powerPlayTimeOnIcePerGame" : "00:14"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "92",
+          "position" : {
+            "code" : "R",
+            "name" : "Right Wing",
+            "type" : "Forward",
+            "abbreviation" : "RW"
+          }
+        }, {
+          "person" : {
+            "id" : 8476438,
+            "fullName" : "Brandon Saad",
+            "link" : "/api/v1/people/8476438",
+            "firstName" : "Brandon",
+            "lastName" : "Saad",
+            "primaryNumber" : "20",
+            "birthDate" : "1992-10-27",
+            "currentAge" : 26,
+            "birthCity" : "Pittsburgh",
+            "birthStateProvince" : "PA",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "6' 1\"",
+            "weight" : 206,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "L",
+              "name" : "Left Wing",
+              "type" : "Forward",
+              "abbreviation" : "LW"
+            },
+            "otherNames" : {
+              "slug" : "brandon-saad-8476438",
+              "lastFirstName" : "Saad, Brandon",
+              "firstLastNameRoman" : "Brandon Saad"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1435:20",
+                  "assists" : 17,
+                  "goals" : 18,
+                  "pim" : 14,
+                  "shots" : 237,
+                  "games" : 82,
+                  "hits" : 29,
+                  "powerPlayGoals" : 1,
+                  "powerPlayPoints" : 1,
+                  "powerPlayTimeOnIce" : "174:37",
+                  "evenTimeOnIce" : "1120:13",
+                  "penaltyMinutes" : "14",
+                  "faceOffPct" : 46.28,
+                  "shotPct" : 7.6,
+                  "gameWinningGoals" : 8,
+                  "overTimeGoals" : 2,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "140:30",
+                  "blocked" : 32,
+                  "plusMinus" : -10,
+                  "points" : 35,
+                  "shifts" : 1937,
+                  "timeOnIcePerGame" : "17:30",
+                  "evenTimeOnIcePerGame" : "13:39",
+                  "shortHandedTimeOnIcePerGame" : "01:42",
+                  "powerPlayTimeOnIcePerGame" : "02:07"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "20",
+          "position" : {
+            "code" : "L",
+            "name" : "Left Wing",
+            "type" : "Forward",
+            "abbreviation" : "LW"
+          }
+        }, {
+          "person" : {
+            "id" : 8476473,
+            "fullName" : "Connor Murphy",
+            "link" : "/api/v1/people/8476473",
+            "firstName" : "Connor",
+            "lastName" : "Murphy",
+            "primaryNumber" : "5",
+            "birthDate" : "1993-03-26",
+            "currentAge" : 26,
+            "birthCity" : "Dublin",
+            "birthStateProvince" : "OH",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "6' 4\"",
+            "weight" : 212,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "R",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "D",
+              "name" : "Defenseman",
+              "type" : "Defenseman",
+              "abbreviation" : "D"
+            },
+            "otherNames" : {
+              "slug" : "connor-murphy-8476473",
+              "lastFirstName" : "Murphy, Connor",
+              "firstLastNameRoman" : "Connor Murphy"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1244:23",
+                  "assists" : 12,
+                  "goals" : 2,
+                  "pim" : 34,
+                  "shots" : 109,
+                  "games" : 76,
+                  "hits" : 138,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "07:10",
+                  "evenTimeOnIce" : "1152:00",
+                  "penaltyMinutes" : "34",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 1.8,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "85:13",
+                  "blocked" : 101,
+                  "plusMinus" : -3,
+                  "points" : 14,
+                  "shifts" : 1812,
+                  "timeOnIcePerGame" : "16:22",
+                  "evenTimeOnIcePerGame" : "15:09",
+                  "shortHandedTimeOnIcePerGame" : "01:07",
+                  "powerPlayTimeOnIcePerGame" : "00:05"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "5",
+          "position" : {
+            "code" : "D",
+            "name" : "Defenseman",
+            "type" : "Defenseman",
+            "abbreviation" : "D"
+          }
+        }, {
+          "person" : {
+            "id" : 8476979,
+            "fullName" : "Erik Gustafsson",
+            "link" : "/api/v1/people/8476979",
+            "firstName" : "Erik",
+            "lastName" : "Gustafsson",
+            "primaryNumber" : "56",
+            "birthDate" : "1992-03-14",
+            "currentAge" : 27,
+            "birthCity" : "Nynashamn",
+            "birthCountry" : "SWE",
+            "nationality" : "SWE",
+            "height" : "6' 0\"",
+            "weight" : 197,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "D",
+              "name" : "Defenseman",
+              "type" : "Defenseman",
+              "abbreviation" : "D"
+            },
+            "otherNames" : {
+              "slug" : "erik-gustafsson-8476979",
+              "lastFirstName" : "Gustafsson, Erik",
+              "firstLastNameRoman" : "Erik Gustafsson"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "649:26",
+                  "assists" : 11,
+                  "goals" : 5,
+                  "pim" : 6,
+                  "shots" : 71,
+                  "games" : 35,
+                  "hits" : 30,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 4,
+                  "powerPlayTimeOnIce" : "49:36",
+                  "evenTimeOnIce" : "598:49",
+                  "penaltyMinutes" : "6",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 7.0,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "01:01",
+                  "blocked" : 45,
+                  "plusMinus" : 1,
+                  "points" : 16,
+                  "shifts" : 869,
+                  "timeOnIcePerGame" : "18:33",
+                  "evenTimeOnIcePerGame" : "17:06",
+                  "shortHandedTimeOnIcePerGame" : "00:01",
+                  "powerPlayTimeOnIcePerGame" : "01:25"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "56",
+          "position" : {
+            "code" : "D",
+            "name" : "Defenseman",
+            "type" : "Defenseman",
+            "abbreviation" : "D"
+          }
+        }, {
+          "person" : {
+            "id" : 8476994,
+            "fullName" : "Vinnie Hinostroza",
+            "link" : "/api/v1/people/8476994",
+            "firstName" : "Vinnie",
+            "lastName" : "Hinostroza",
+            "primaryNumber" : "13",
+            "birthDate" : "1994-04-03",
+            "currentAge" : 25,
+            "birthCity" : "Chicago",
+            "birthStateProvince" : "IL",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "5' 9\"",
+            "weight" : 173,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "R",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 53,
+              "name" : "Arizona Coyotes",
+              "link" : "/api/v1/teams/53"
+            },
+            "primaryPosition" : {
+              "code" : "R",
+              "name" : "Right Wing",
+              "type" : "Forward",
+              "abbreviation" : "RW"
+            },
+            "otherNames" : {
+              "slug" : "vinnie-hinostroza-8476994",
+              "lastFirstName" : "Hinostroza, Vinnie",
+              "firstLastNameRoman" : "Vinnie Hinostroza"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "690:59",
+                  "assists" : 18,
+                  "goals" : 7,
+                  "pim" : 10,
+                  "shots" : 86,
+                  "games" : 50,
+                  "hits" : 26,
+                  "powerPlayGoals" : 1,
+                  "powerPlayPoints" : 5,
+                  "powerPlayTimeOnIce" : "71:42",
+                  "evenTimeOnIce" : "619:12",
+                  "penaltyMinutes" : "10",
+                  "faceOffPct" : 43.82,
+                  "shotPct" : 8.1,
+                  "gameWinningGoals" : 1,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "00:05",
+                  "blocked" : 17,
+                  "plusMinus" : 5,
+                  "points" : 25,
+                  "shifts" : 870,
+                  "timeOnIcePerGame" : "13:49",
+                  "evenTimeOnIcePerGame" : "12:23",
+                  "shortHandedTimeOnIcePerGame" : "00:00",
+                  "powerPlayTimeOnIcePerGame" : "01:26"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "13",
+          "position" : {
+            "code" : "R",
+            "name" : "Right Wing",
+            "type" : "Forward",
+            "abbreviation" : "RW"
+          }
+        }, {
+          "person" : {
+            "id" : 8477401,
+            "fullName" : "John Hayden",
+            "link" : "/api/v1/people/8477401",
+            "firstName" : "John",
+            "lastName" : "Hayden",
+            "primaryNumber" : "40",
+            "birthDate" : "1995-02-14",
+            "currentAge" : 24,
+            "birthCity" : "Chicago",
+            "birthStateProvince" : "IL",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "6' 3\"",
+            "weight" : 215,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "R",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 1,
+              "name" : "New Jersey Devils",
+              "link" : "/api/v1/teams/1"
+            },
+            "primaryPosition" : {
+              "code" : "C",
+              "name" : "Center",
+              "type" : "Forward",
+              "abbreviation" : "C"
+            },
+            "otherNames" : {
+              "slug" : "john-hayden-8477401",
+              "lastFirstName" : "Hayden, John",
+              "firstLastNameRoman" : "John Hayden"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "508:46",
+                  "assists" : 9,
+                  "goals" : 4,
+                  "pim" : 54,
+                  "shots" : 56,
+                  "games" : 47,
+                  "hits" : 118,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "11:00",
+                  "evenTimeOnIce" : "457:40",
+                  "penaltyMinutes" : "54",
+                  "faceOffPct" : 50.0,
+                  "shotPct" : 7.1,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 1,
+                  "shortHandedPoints" : 1,
+                  "shortHandedTimeOnIce" : "40:06",
+                  "blocked" : 23,
+                  "plusMinus" : -4,
+                  "points" : 13,
+                  "shifts" : 746,
+                  "timeOnIcePerGame" : "10:49",
+                  "evenTimeOnIcePerGame" : "09:44",
+                  "shortHandedTimeOnIcePerGame" : "00:51",
+                  "powerPlayTimeOnIcePerGame" : "00:14"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "40",
+          "position" : {
+            "code" : "C",
+            "name" : "Center",
+            "type" : "Forward",
+            "abbreviation" : "C"
+          }
+        }, {
+          "person" : {
+            "id" : 8477407,
+            "fullName" : "Anthony Duclair",
+            "link" : "/api/v1/people/8477407",
+            "firstName" : "Anthony",
+            "lastName" : "Duclair",
+            "primaryNumber" : "10",
+            "birthDate" : "1995-08-26",
+            "currentAge" : 24,
+            "birthCity" : "Pointe-Claire",
+            "birthStateProvince" : "QC",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "5' 11\"",
+            "weight" : 191,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 9,
+              "name" : "Ottawa Senators",
+              "link" : "/api/v1/teams/9"
+            },
+            "primaryPosition" : {
+              "code" : "L",
+              "name" : "Left Wing",
+              "type" : "Forward",
+              "abbreviation" : "LW"
+            },
+            "otherNames" : {
+              "slug" : "anthony-duclair-8477407",
+              "lastFirstName" : "Duclair, Anthony",
+              "firstLastNameRoman" : "Anthony Duclair"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "743:52",
+                  "assists" : 12,
+                  "goals" : 11,
+                  "pim" : 16,
+                  "shots" : 97,
+                  "games" : 56,
+                  "hits" : 46,
+                  "powerPlayGoals" : 3,
+                  "powerPlayPoints" : 3,
+                  "powerPlayTimeOnIce" : "95:26",
+                  "evenTimeOnIce" : "647:26",
+                  "penaltyMinutes" : "16",
+                  "faceOffPct" : 50.0,
+                  "shotPct" : 11.3,
+                  "gameWinningGoals" : 2,
+                  "overTimeGoals" : 1,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "01:00",
+                  "blocked" : 26,
+                  "plusMinus" : -5,
+                  "points" : 23,
+                  "shifts" : 1053,
+                  "timeOnIcePerGame" : "13:17",
+                  "evenTimeOnIcePerGame" : "11:33",
+                  "shortHandedTimeOnIcePerGame" : "00:01",
+                  "powerPlayTimeOnIcePerGame" : "01:42"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "10",
+          "position" : {
+            "code" : "L",
+            "name" : "Left Wing",
+            "type" : "Forward",
+            "abbreviation" : "LW"
+          }
+        }, {
+          "person" : {
+            "id" : 8477451,
+            "fullName" : "Ryan Hartman",
+            "link" : "/api/v1/people/8477451",
+            "firstName" : "Ryan",
+            "lastName" : "Hartman",
+            "primaryNumber" : "38",
+            "birthDate" : "1994-09-20",
+            "currentAge" : 24,
+            "birthCity" : "Hilton Head Isl.",
+            "birthStateProvince" : "SC",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "6' 0\"",
+            "weight" : 181,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "R",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 30,
+              "name" : "Minnesota Wild",
+              "link" : "/api/v1/teams/30"
+            },
+            "primaryPosition" : {
+              "code" : "R",
+              "name" : "Right Wing",
+              "type" : "Forward",
+              "abbreviation" : "RW"
+            },
+            "otherNames" : {
+              "slug" : "ryan-hartman-8477451",
+              "lastFirstName" : "Hartman, Ryan",
+              "firstLastNameRoman" : "Ryan Hartman"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1018:51",
+                  "assists" : 20,
+                  "goals" : 11,
+                  "pim" : 72,
+                  "shots" : 129,
+                  "games" : 78,
+                  "hits" : 113,
+                  "powerPlayGoals" : 1,
+                  "powerPlayPoints" : 2,
+                  "powerPlayTimeOnIce" : "51:37",
+                  "evenTimeOnIce" : "943:29",
+                  "penaltyMinutes" : "72",
+                  "faceOffPct" : 45.81,
+                  "shotPct" : 8.5,
+                  "gameWinningGoals" : 2,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "23:45",
+                  "blocked" : 38,
+                  "plusMinus" : 1,
+                  "points" : 31,
+                  "shifts" : 1370,
+                  "timeOnIcePerGame" : "13:03",
+                  "evenTimeOnIcePerGame" : "12:05",
+                  "shortHandedTimeOnIcePerGame" : "00:18",
+                  "powerPlayTimeOnIcePerGame" : "00:39"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "38",
+          "position" : {
+            "code" : "R",
+            "name" : "Right Wing",
+            "type" : "Forward",
+            "abbreviation" : "RW"
+          }
+        }, {
+          "person" : {
+            "id" : 8477472,
+            "fullName" : "Carl Dahlstrom",
+            "link" : "/api/v1/people/8477472",
+            "firstName" : "Carl",
+            "lastName" : "Dahlstrom",
+            "primaryNumber" : "63",
+            "birthDate" : "1995-01-28",
+            "currentAge" : 24,
+            "birthCity" : "Stockholm",
+            "birthCountry" : "SWE",
+            "nationality" : "SWE",
+            "height" : "6' 4\"",
+            "weight" : 231,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : true,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "D",
+              "name" : "Defenseman",
+              "type" : "Defenseman",
+              "abbreviation" : "D"
+            },
+            "otherNames" : {
+              "slug" : "carl-dahlstrom-8477472",
+              "lastFirstName" : "Dahlstrom, Carl",
+              "firstLastNameRoman" : "Carl Dahlstrom"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "192:39",
+                  "assists" : 3,
+                  "goals" : 0,
+                  "pim" : 0,
+                  "shots" : 12,
+                  "games" : 11,
+                  "hits" : 6,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "00:14",
+                  "evenTimeOnIce" : "176:37",
+                  "penaltyMinutes" : "0",
+                  "faceOffPct" : 100.0,
+                  "shotPct" : 0.0,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "15:48",
+                  "blocked" : 9,
+                  "plusMinus" : -2,
+                  "points" : 3,
+                  "shifts" : 270,
+                  "timeOnIcePerGame" : "17:30",
+                  "evenTimeOnIcePerGame" : "16:03",
+                  "shortHandedTimeOnIcePerGame" : "01:26",
+                  "powerPlayTimeOnIcePerGame" : "00:01"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "63",
+          "position" : {
+            "code" : "D",
+            "name" : "Defenseman",
+            "type" : "Defenseman",
+            "abbreviation" : "D"
+          }
+        }, {
+          "person" : {
+            "id" : 8477851,
+            "fullName" : "Jordan Oesterle",
+            "link" : "/api/v1/people/8477851",
+            "firstName" : "Jordan",
+            "lastName" : "Oesterle",
+            "primaryNumber" : "82",
+            "birthDate" : "1992-06-25",
+            "currentAge" : 27,
+            "birthCity" : "Dearborn Heights",
+            "birthStateProvince" : "MI",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "6' 0\"",
+            "weight" : 182,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 53,
+              "name" : "Arizona Coyotes",
+              "link" : "/api/v1/teams/53"
+            },
+            "primaryPosition" : {
+              "code" : "D",
+              "name" : "Defenseman",
+              "type" : "Defenseman",
+              "abbreviation" : "D"
+            },
+            "otherNames" : {
+              "slug" : "jordan-oesterle-8477851",
+              "lastFirstName" : "Oesterle, Jordan",
+              "firstLastNameRoman" : "Jordan Oesterle"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1128:21",
+                  "assists" : 10,
+                  "goals" : 5,
+                  "pim" : 8,
+                  "shots" : 99,
+                  "games" : 55,
+                  "hits" : 62,
+                  "powerPlayGoals" : 1,
+                  "powerPlayPoints" : 3,
+                  "powerPlayTimeOnIce" : "58:52",
+                  "evenTimeOnIce" : "1032:16",
+                  "penaltyMinutes" : "8",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 5.1,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "37:13",
+                  "blocked" : 97,
+                  "plusMinus" : -11,
+                  "points" : 15,
+                  "shifts" : 1412,
+                  "timeOnIcePerGame" : "20:30",
+                  "evenTimeOnIcePerGame" : "18:46",
+                  "shortHandedTimeOnIcePerGame" : "00:40",
+                  "powerPlayTimeOnIcePerGame" : "01:04"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "82",
+          "position" : {
+            "code" : "D",
+            "name" : "Defenseman",
+            "type" : "Defenseman",
+            "abbreviation" : "D"
+          }
+        }, {
+          "person" : {
+            "id" : 8477951,
+            "fullName" : "Nick Schmaltz",
+            "link" : "/api/v1/people/8477951",
+            "firstName" : "Nick",
+            "lastName" : "Schmaltz",
+            "primaryNumber" : "8",
+            "birthDate" : "1996-02-23",
+            "currentAge" : 23,
+            "birthCity" : "Madison",
+            "birthStateProvince" : "WI",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "6' 0\"",
+            "weight" : 177,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "R",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 53,
+              "name" : "Arizona Coyotes",
+              "link" : "/api/v1/teams/53"
+            },
+            "primaryPosition" : {
+              "code" : "C",
+              "name" : "Center",
+              "type" : "Forward",
+              "abbreviation" : "C"
+            },
+            "otherNames" : {
+              "slug" : "nick-schmaltz-8477951",
+              "lastFirstName" : "Schmaltz, Nick",
+              "firstLastNameRoman" : "Nick Schmaltz"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1422:02",
+                  "assists" : 31,
+                  "goals" : 21,
+                  "pim" : 18,
+                  "shots" : 118,
+                  "games" : 78,
+                  "hits" : 13,
+                  "powerPlayGoals" : 4,
+                  "powerPlayPoints" : 13,
+                  "powerPlayTimeOnIce" : "208:14",
+                  "evenTimeOnIce" : "1110:49",
+                  "penaltyMinutes" : "18",
+                  "faceOffPct" : 40.07,
+                  "shotPct" : 17.8,
+                  "gameWinningGoals" : 2,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 2,
+                  "shortHandedTimeOnIce" : "102:59",
+                  "blocked" : 39,
+                  "plusMinus" : 1,
+                  "points" : 52,
+                  "shifts" : 1789,
+                  "timeOnIcePerGame" : "18:13",
+                  "evenTimeOnIcePerGame" : "14:14",
+                  "shortHandedTimeOnIcePerGame" : "01:19",
+                  "powerPlayTimeOnIcePerGame" : "02:40"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "8",
+          "position" : {
+            "code" : "C",
+            "name" : "Center",
+            "type" : "Forward",
+            "abbreviation" : "C"
+          }
+        }, {
+          "person" : {
+            "id" : 8478055,
+            "fullName" : "Gustav Forsling",
+            "link" : "/api/v1/people/8478055",
+            "firstName" : "Gustav",
+            "lastName" : "Forsling",
+            "primaryNumber" : "42",
+            "birthDate" : "1996-06-12",
+            "currentAge" : 23,
+            "birthCity" : "Linkoping",
+            "birthCountry" : "SWE",
+            "nationality" : "SWE",
+            "height" : "6' 0\"",
+            "weight" : 186,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 12,
+              "name" : "Carolina Hurricanes",
+              "link" : "/api/v1/teams/12"
+            },
+            "primaryPosition" : {
+              "code" : "D",
+              "name" : "Defenseman",
+              "type" : "Defenseman",
+              "abbreviation" : "D"
+            },
+            "otherNames" : {
+              "slug" : "gustav-forsling-8478055",
+              "lastFirstName" : "Forsling, Gustav",
+              "firstLastNameRoman" : "Gustav Forsling"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "785:24",
+                  "assists" : 10,
+                  "goals" : 3,
+                  "pim" : 8,
+                  "shots" : 82,
+                  "games" : 41,
+                  "hits" : 26,
+                  "powerPlayGoals" : 1,
+                  "powerPlayPoints" : 4,
+                  "powerPlayTimeOnIce" : "47:59",
+                  "evenTimeOnIce" : "634:22",
+                  "penaltyMinutes" : "8",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 3.7,
+                  "gameWinningGoals" : 1,
+                  "overTimeGoals" : 1,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 1,
+                  "shortHandedTimeOnIce" : "103:03",
+                  "blocked" : 56,
+                  "plusMinus" : -2,
+                  "points" : 13,
+                  "shifts" : 1144,
+                  "timeOnIcePerGame" : "19:09",
+                  "evenTimeOnIcePerGame" : "15:28",
+                  "shortHandedTimeOnIcePerGame" : "02:30",
+                  "powerPlayTimeOnIcePerGame" : "01:10"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "42",
+          "position" : {
+            "code" : "D",
+            "name" : "Defenseman",
+            "type" : "Defenseman",
+            "abbreviation" : "D"
+          }
+        }, {
+          "person" : {
+            "id" : 8478106,
+            "fullName" : "Dylan Sikura",
+            "link" : "/api/v1/people/8478106",
+            "firstName" : "Dylan",
+            "lastName" : "Sikura",
+            "primaryNumber" : "95",
+            "birthDate" : "1995-06-01",
+            "currentAge" : 24,
+            "birthCity" : "Aurora",
+            "birthStateProvince" : "ON",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "5' 11\"",
+            "weight" : 166,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : true,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "R",
+              "name" : "Right Wing",
+              "type" : "Forward",
+              "abbreviation" : "RW"
+            },
+            "otherNames" : {
+              "slug" : "dylan-sikura-8478106",
+              "lastFirstName" : "Sikura, Dylan",
+              "firstLastNameRoman" : "Dylan Sikura"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "67:00",
+                  "assists" : 3,
+                  "goals" : 0,
+                  "pim" : 0,
+                  "shots" : 9,
+                  "games" : 5,
+                  "hits" : 0,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "04:00",
+                  "evenTimeOnIce" : "63:00",
+                  "penaltyMinutes" : "0",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 0.0,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "00:00",
+                  "blocked" : 2,
+                  "plusMinus" : 2,
+                  "points" : 3,
+                  "shifts" : 81,
+                  "timeOnIcePerGame" : "13:24",
+                  "evenTimeOnIcePerGame" : "12:36",
+                  "shortHandedTimeOnIcePerGame" : "00:00",
+                  "powerPlayTimeOnIcePerGame" : "00:48"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "95",
+          "position" : {
+            "code" : "R",
+            "name" : "Right Wing",
+            "type" : "Forward",
+            "abbreviation" : "RW"
+          }
+        }, {
+          "person" : {
+            "id" : 8478146,
+            "fullName" : "Matthew Highmore",
+            "link" : "/api/v1/people/8478146",
+            "firstName" : "Matthew",
+            "lastName" : "Highmore",
+            "primaryNumber" : "36",
+            "birthDate" : "1996-02-27",
+            "currentAge" : 23,
+            "birthCity" : "Halifax",
+            "birthStateProvince" : "NS",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "5' 11\"",
+            "weight" : 188,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : true,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "C",
+              "name" : "Center",
+              "type" : "Forward",
+              "abbreviation" : "C"
+            },
+            "otherNames" : {
+              "slug" : "matthew-highmore-8478146",
+              "lastFirstName" : "Highmore, Matthew",
+              "firstLastNameRoman" : "Matthew Highmore"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "157:59",
+                  "assists" : 0,
+                  "goals" : 2,
+                  "pim" : 0,
+                  "shots" : 27,
+                  "games" : 13,
+                  "hits" : 9,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "00:18",
+                  "evenTimeOnIce" : "145:46",
+                  "penaltyMinutes" : "0",
+                  "faceOffPct" : 20.0,
+                  "shotPct" : 7.4,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "11:55",
+                  "blocked" : 7,
+                  "plusMinus" : -4,
+                  "points" : 2,
+                  "shifts" : 212,
+                  "timeOnIcePerGame" : "12:09",
+                  "evenTimeOnIcePerGame" : "11:12",
+                  "shortHandedTimeOnIcePerGame" : "00:55",
+                  "powerPlayTimeOnIcePerGame" : "00:01"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "36",
+          "position" : {
+            "code" : "C",
+            "name" : "Center",
+            "type" : "Forward",
+            "abbreviation" : "C"
+          }
+        }, {
+          "person" : {
+            "id" : 8478528,
+            "fullName" : "Tanner Kero",
+            "link" : "/api/v1/people/8478528",
+            "firstName" : "Tanner",
+            "lastName" : "Kero",
+            "primaryNumber" : "15",
+            "birthDate" : "1992-07-24",
+            "currentAge" : 27,
+            "birthCity" : "Hancock",
+            "birthStateProvince" : "MI",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "6' 0\"",
+            "weight" : 185,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 25,
+              "name" : "Dallas Stars",
+              "link" : "/api/v1/teams/25"
+            },
+            "primaryPosition" : {
+              "code" : "C",
+              "name" : "Center",
+              "type" : "Forward",
+              "abbreviation" : "C"
+            },
+            "otherNames" : {
+              "slug" : "tanner-kero-8478528",
+              "lastFirstName" : "Kero, Tanner",
+              "firstLastNameRoman" : "Tanner Kero"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "91:30",
+                  "assists" : 2,
+                  "goals" : 1,
+                  "pim" : 0,
+                  "shots" : 7,
+                  "games" : 8,
+                  "hits" : 3,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "00:23",
+                  "evenTimeOnIce" : "73:07",
+                  "penaltyMinutes" : "0",
+                  "faceOffPct" : 46.05,
+                  "shotPct" : 14.3,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "18:00",
+                  "blocked" : 7,
+                  "plusMinus" : 1,
+                  "points" : 3,
+                  "shifts" : 149,
+                  "timeOnIcePerGame" : "11:26",
+                  "evenTimeOnIcePerGame" : "09:08",
+                  "shortHandedTimeOnIcePerGame" : "02:15",
+                  "powerPlayTimeOnIcePerGame" : "00:02"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "15",
+          "position" : {
+            "code" : "C",
+            "name" : "Center",
+            "type" : "Forward",
+            "abbreviation" : "C"
+          }
+        }, {
+          "person" : {
+            "id" : 8478561,
+            "fullName" : "Andreas Martinsen",
+            "link" : "/api/v1/people/8478561",
+            "firstName" : "Andreas",
+            "lastName" : "Martinsen",
+            "birthDate" : "1990-06-13",
+            "currentAge" : 29,
+            "birthCity" : "Bærum",
+            "birthCountry" : "NOR",
+            "nationality" : "NOR",
+            "height" : "6' 3\"",
+            "weight" : 229,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 24,
+              "name" : "Anaheim Ducks",
+              "link" : "/api/v1/teams/24"
+            },
+            "primaryPosition" : {
+              "code" : "L",
+              "name" : "Left Wing",
+              "type" : "Forward",
+              "abbreviation" : "LW"
+            },
+            "otherNames" : {
+              "slug" : "andreas-martinsen-8478561",
+              "lastFirstName" : "Martinsen, Andreas",
+              "firstLastNameRoman" : "Andreas Martinsen"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "113:46",
+                  "assists" : 0,
+                  "goals" : 1,
+                  "pim" : 17,
+                  "shots" : 14,
+                  "games" : 9,
+                  "hits" : 35,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "00:03",
+                  "evenTimeOnIce" : "109:51",
+                  "penaltyMinutes" : "17",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 7.1,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "03:52",
+                  "blocked" : 4,
+                  "plusMinus" : -1,
+                  "points" : 1,
+                  "shifts" : 158,
+                  "timeOnIcePerGame" : "12:38",
+                  "evenTimeOnIcePerGame" : "12:12",
+                  "shortHandedTimeOnIcePerGame" : "00:25",
+                  "powerPlayTimeOnIcePerGame" : "00:00"
+                }
+              } ]
+            } ]
+          },
+          "position" : {
+            "code" : "L",
+            "name" : "Left Wing",
+            "type" : "Forward",
+            "abbreviation" : "LW"
+          }
+        }, {
+          "person" : {
+            "id" : 8479337,
+            "fullName" : "Alex DeBrincat",
+            "link" : "/api/v1/people/8479337",
+            "firstName" : "Alex",
+            "lastName" : "DeBrincat",
+            "primaryNumber" : "12",
+            "birthDate" : "1997-12-18",
+            "currentAge" : 21,
+            "birthCity" : "Farmington Hills",
+            "birthStateProvince" : "MI",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "5' 7\"",
+            "weight" : 165,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "R",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "L",
+              "name" : "Left Wing",
+              "type" : "Forward",
+              "abbreviation" : "LW"
+            },
+            "otherNames" : {
+              "slug" : "alex-debrincat-8479337",
+              "lastFirstName" : "DeBrincat, Alex",
+              "firstLastNameRoman" : "Alex DeBrincat"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1213:46",
+                  "assists" : 24,
+                  "goals" : 28,
+                  "pim" : 6,
+                  "shots" : 181,
+                  "games" : 82,
+                  "hits" : 40,
+                  "powerPlayGoals" : 6,
+                  "powerPlayPoints" : 12,
+                  "powerPlayTimeOnIce" : "167:07",
+                  "evenTimeOnIce" : "1034:46",
+                  "penaltyMinutes" : "6",
+                  "faceOffPct" : 42.37,
+                  "shotPct" : 15.5,
+                  "gameWinningGoals" : 1,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "11:53",
+                  "blocked" : 25,
+                  "plusMinus" : 6,
+                  "points" : 52,
+                  "shifts" : 1564,
+                  "timeOnIcePerGame" : "14:48",
+                  "evenTimeOnIcePerGame" : "12:37",
+                  "shortHandedTimeOnIcePerGame" : "00:08",
+                  "powerPlayTimeOnIcePerGame" : "02:02"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "12",
+          "position" : {
+            "code" : "L",
+            "name" : "Left Wing",
+            "type" : "Forward",
+            "abbreviation" : "LW"
+          }
+        }, {
+          "person" : {
+            "id" : 8479482,
+            "fullName" : "Michal Kempny",
+            "link" : "/api/v1/people/8479482",
+            "firstName" : "Michal",
+            "lastName" : "Kempny",
+            "primaryNumber" : "6",
+            "birthDate" : "1990-09-08",
+            "currentAge" : 29,
+            "birthCity" : "Hodonin",
+            "birthCountry" : "CZE",
+            "nationality" : "CZE",
+            "height" : "6' 0\"",
+            "weight" : 194,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 15,
+              "name" : "Washington Capitals",
+              "link" : "/api/v1/teams/15"
+            },
+            "primaryPosition" : {
+              "code" : "D",
+              "name" : "Defenseman",
+              "type" : "Defenseman",
+              "abbreviation" : "D"
+            },
+            "otherNames" : {
+              "slug" : "michal-kempny-8479482",
+              "lastFirstName" : "Kempny, Michal",
+              "firstLastNameRoman" : "Michal Kempny"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "843:23",
+                  "assists" : 7,
+                  "goals" : 3,
+                  "pim" : 26,
+                  "shots" : 82,
+                  "games" : 53,
+                  "hits" : 57,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "04:15",
+                  "evenTimeOnIce" : "802:35",
+                  "penaltyMinutes" : "26",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 3.7,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "36:33",
+                  "blocked" : 82,
+                  "plusMinus" : 14,
+                  "points" : 10,
+                  "shifts" : 1076,
+                  "timeOnIcePerGame" : "15:54",
+                  "evenTimeOnIcePerGame" : "15:08",
+                  "shortHandedTimeOnIcePerGame" : "00:41",
+                  "powerPlayTimeOnIcePerGame" : "00:04"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "6",
+          "position" : {
+            "code" : "D",
+            "name" : "Defenseman",
+            "type" : "Defenseman",
+            "abbreviation" : "D"
+          }
+        }, {
+          "person" : {
+            "id" : 8479595,
+            "fullName" : "Blake Hillman",
+            "link" : "/api/v1/people/8479595",
+            "firstName" : "Blake",
+            "lastName" : "Hillman",
+            "primaryNumber" : "55",
+            "birthDate" : "1996-01-26",
+            "birthCity" : "Elk River",
+            "birthStateProvince" : "MN",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "6' 1\"",
+            "weight" : 193,
+            "active" : false,
+            "rookie" : true,
+            "shootsCatches" : "L",
+            "rosterStatus" : "N",
+            "primaryPosition" : {
+              "code" : "D",
+              "name" : "Defenseman",
+              "type" : "Defenseman",
+              "abbreviation" : "D"
+            },
+            "otherNames" : {
+              "slug" : "blake-hillman-8479595",
+              "lastFirstName" : "Hillman, Blake",
+              "firstLastNameRoman" : "Blake Hillman"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "72:07",
+                  "assists" : 0,
+                  "goals" : 1,
+                  "pim" : 0,
+                  "shots" : 5,
+                  "games" : 4,
+                  "hits" : 5,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "00:05",
+                  "evenTimeOnIce" : "65:38",
+                  "penaltyMinutes" : "0",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 20.0,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 1,
+                  "shortHandedPoints" : 1,
+                  "shortHandedTimeOnIce" : "06:24",
+                  "blocked" : 8,
+                  "plusMinus" : -1,
+                  "points" : 1,
+                  "shifts" : 99,
+                  "timeOnIcePerGame" : "18:01",
+                  "evenTimeOnIcePerGame" : "16:24",
+                  "shortHandedTimeOnIcePerGame" : "01:36",
+                  "powerPlayTimeOnIcePerGame" : "00:01"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "55",
+          "position" : {
+            "code" : "D",
+            "name" : "Defenseman",
+            "type" : "Defenseman",
+            "abbreviation" : "D"
+          }
+        }, {
+          "person" : {
+            "id" : 8480144,
+            "fullName" : "David Kampf",
+            "link" : "/api/v1/people/8480144",
+            "firstName" : "David",
+            "lastName" : "Kampf",
+            "primaryNumber" : "64",
+            "birthDate" : "1995-01-12",
+            "currentAge" : 24,
+            "birthCity" : "Chomutov",
+            "birthCountry" : "CZE",
+            "nationality" : "CZE",
+            "height" : "6' 2\"",
+            "weight" : 188,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "C",
+              "name" : "Center",
+              "type" : "Forward",
+              "abbreviation" : "C"
+            },
+            "otherNames" : {
+              "slug" : "david-kampf-8480144",
+              "lastFirstName" : "Kampf, David",
+              "firstLastNameRoman" : "David Kampf"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "588:47",
+                  "assists" : 7,
+                  "goals" : 4,
+                  "pim" : 12,
+                  "shots" : 46,
+                  "games" : 46,
+                  "hits" : 29,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "03:49",
+                  "evenTimeOnIce" : "517:07",
+                  "penaltyMinutes" : "12",
+                  "faceOffPct" : 53.0,
+                  "shotPct" : 8.7,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "67:51",
+                  "blocked" : 23,
+                  "plusMinus" : -9,
+                  "points" : 11,
+                  "shifts" : 855,
+                  "timeOnIcePerGame" : "12:47",
+                  "evenTimeOnIcePerGame" : "11:14",
+                  "shortHandedTimeOnIcePerGame" : "01:28",
+                  "powerPlayTimeOnIcePerGame" : "00:04"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "64",
+          "position" : {
+            "code" : "C",
+            "name" : "Center",
+            "type" : "Forward",
+            "abbreviation" : "C"
+          }
+        }, {
+          "person" : {
+            "id" : 8480153,
+            "fullName" : "Victor Ejdsell",
+            "link" : "/api/v1/people/8480153",
+            "firstName" : "Victor",
+            "lastName" : "Ejdsell",
+            "primaryNumber" : "17",
+            "birthDate" : "1995-06-06",
+            "currentAge" : 24,
+            "birthCity" : "Karlstad",
+            "birthCountry" : "SWE",
+            "nationality" : "SWE",
+            "height" : "6' 5\"",
+            "weight" : 214,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : true,
+            "shootsCatches" : "L",
+            "rosterStatus" : "N",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "C",
+              "name" : "Center",
+              "type" : "Forward",
+              "abbreviation" : "C"
+            },
+            "otherNames" : {
+              "slug" : "victor-ejdsell-8480153",
+              "lastFirstName" : "Ejdsell, Victor",
+              "firstLastNameRoman" : "Victor Ejdsell"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "79:54",
+                  "assists" : 1,
+                  "goals" : 0,
+                  "pim" : 0,
+                  "shots" : 7,
+                  "games" : 6,
+                  "hits" : 6,
+                  "powerPlayGoals" : 0,
+                  "powerPlayPoints" : 0,
+                  "powerPlayTimeOnIce" : "04:36",
+                  "evenTimeOnIce" : "75:18",
+                  "penaltyMinutes" : "0",
+                  "faceOffPct" : 33.33,
+                  "shotPct" : 0.0,
+                  "gameWinningGoals" : 0,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 0,
+                  "shortHandedTimeOnIce" : "00:00",
+                  "blocked" : 6,
+                  "plusMinus" : -1,
+                  "points" : 1,
+                  "shifts" : 97,
+                  "timeOnIcePerGame" : "13:19",
+                  "evenTimeOnIcePerGame" : "12:33",
+                  "shortHandedTimeOnIcePerGame" : "00:00",
+                  "powerPlayTimeOnIcePerGame" : "00:46"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "17",
+          "position" : {
+            "code" : "C",
+            "name" : "Center",
+            "type" : "Forward",
+            "abbreviation" : "C"
+          }
+        }, {
+          "person" : {
+            "id" : 8480172,
+            "fullName" : "Jan Rutta",
+            "link" : "/api/v1/people/8480172",
+            "firstName" : "Jan",
+            "lastName" : "Rutta",
+            "primaryNumber" : "44",
+            "birthDate" : "1990-07-29",
+            "currentAge" : 29,
+            "birthCity" : "Pisek",
+            "birthCountry" : "CZE",
+            "nationality" : "CZE",
+            "height" : "6' 3\"",
+            "weight" : 200,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "R",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 14,
+              "name" : "Tampa Bay Lightning",
+              "link" : "/api/v1/teams/14"
+            },
+            "primaryPosition" : {
+              "code" : "D",
+              "name" : "Defenseman",
+              "type" : "Defenseman",
+              "abbreviation" : "D"
+            },
+            "otherNames" : {
+              "slug" : "jan-rutta-8480172",
+              "lastFirstName" : "Rutta, Jan",
+              "firstLastNameRoman" : "Jan Rutta"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1097:30",
+                  "assists" : 14,
+                  "goals" : 6,
+                  "pim" : 24,
+                  "shots" : 71,
+                  "games" : 57,
+                  "hits" : 24,
+                  "powerPlayGoals" : 2,
+                  "powerPlayPoints" : 4,
+                  "powerPlayTimeOnIce" : "23:49",
+                  "evenTimeOnIce" : "945:35",
+                  "penaltyMinutes" : "24",
+                  "faceOffPct" : 0.0,
+                  "shotPct" : 8.5,
+                  "gameWinningGoals" : 1,
+                  "overTimeGoals" : 0,
+                  "shortHandedGoals" : 0,
+                  "shortHandedPoints" : 1,
+                  "shortHandedTimeOnIce" : "128:06",
+                  "blocked" : 64,
+                  "plusMinus" : -1,
+                  "points" : 20,
+                  "shifts" : 1558,
+                  "timeOnIcePerGame" : "19:15",
+                  "evenTimeOnIcePerGame" : "16:35",
+                  "shortHandedTimeOnIcePerGame" : "02:14",
+                  "powerPlayTimeOnIcePerGame" : "00:25"
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "44",
+          "position" : {
+            "code" : "D",
+            "name" : "Defenseman",
+            "type" : "Defenseman",
+            "abbreviation" : "D"
+          }
+        }, {
+          "person" : {
+            "id" : 8470645,
+            "fullName" : "Corey Crawford",
+            "link" : "/api/v1/people/8470645",
+            "firstName" : "Corey",
+            "lastName" : "Crawford",
+            "primaryNumber" : "50",
+            "birthDate" : "1984-12-31",
+            "currentAge" : 34,
+            "birthCity" : "Montreal",
+            "birthStateProvince" : "QC",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "6' 2\"",
+            "weight" : 216,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "G",
+              "name" : "Goalie",
+              "type" : "Goalie",
+              "abbreviation" : "G"
+            },
+            "otherNames" : {
+              "slug" : "corey-crawford-8470645",
+              "lastFirstName" : "Crawford, Corey",
+              "firstLastNameRoman" : "Corey Crawford"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1583:30",
+                  "ot" : 2,
+                  "shutouts" : 2,
+                  "ties" : 0,
+                  "wins" : 16,
+                  "losses" : 9,
+                  "saves" : 782,
+                  "powerPlaySaves" : 119,
+                  "shortHandedSaves" : 27,
+                  "evenSaves" : 636,
+                  "shortHandedShots" : 30,
+                  "evenShots" : 681,
+                  "powerPlayShots" : 131,
+                  "savePercentage" : 0.929,
+                  "goalAgainstAverage" : 2.27,
+                  "games" : 28,
+                  "gamesStarted" : 27,
+                  "shotsAgainst" : 842,
+                  "goalsAgainst" : 60,
+                  "timeOnIcePerGame" : "56:33",
+                  "powerPlaySavePercentage" : 90.83969465648855,
+                  "shortHandedSavePercentage" : 90.0,
+                  "evenStrengthSavePercentage" : 93.3920704845815
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "50",
+          "position" : {
+            "code" : "G",
+            "name" : "Goalie",
+            "type" : "Goalie",
+            "abbreviation" : "G"
+          }
+        }, {
+          "person" : {
+            "id" : 8471301,
+            "fullName" : "Jeff Glass",
+            "link" : "/api/v1/people/8471301",
+            "firstName" : "Jeff",
+            "lastName" : "Glass",
+            "primaryNumber" : "30",
+            "birthDate" : "1985-11-19",
+            "birthCity" : "Calgary",
+            "birthStateProvince" : "AB",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "6' 3\"",
+            "weight" : 206,
+            "active" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "N",
+            "primaryPosition" : {
+              "code" : "G",
+              "name" : "Goalie",
+              "type" : "Goalie",
+              "abbreviation" : "G"
+            },
+            "otherNames" : {
+              "slug" : "jeff-glass-8471301",
+              "lastFirstName" : "Glass, Jeff",
+              "firstLastNameRoman" : "Jeff Glass"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "820:54",
+                  "ot" : 3,
+                  "shutouts" : 0,
+                  "ties" : 0,
+                  "wins" : 3,
+                  "losses" : 7,
+                  "saves" : 406,
+                  "powerPlaySaves" : 60,
+                  "shortHandedSaves" : 7,
+                  "evenSaves" : 339,
+                  "shortHandedShots" : 9,
+                  "evenShots" : 374,
+                  "powerPlayShots" : 69,
+                  "savePercentage" : 0.898,
+                  "goalAgainstAverage" : 3.36,
+                  "games" : 15,
+                  "gamesStarted" : 13,
+                  "shotsAgainst" : 452,
+                  "goalsAgainst" : 46,
+                  "timeOnIcePerGame" : "54:43",
+                  "powerPlaySavePercentage" : 86.95652173913044,
+                  "shortHandedSavePercentage" : 77.77777777777779,
+                  "evenStrengthSavePercentage" : 90.64171122994652
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "30",
+          "position" : {
+            "code" : "G",
+            "name" : "Goalie",
+            "type" : "Goalie",
+            "abbreviation" : "G"
+          }
+        }, {
+          "person" : {
+            "id" : 8475234,
+            "fullName" : "J-F Berube",
+            "link" : "/api/v1/people/8475234",
+            "firstName" : "J-F",
+            "lastName" : "Berube",
+            "primaryNumber" : "35",
+            "birthDate" : "1991-07-13",
+            "currentAge" : 28,
+            "birthCity" : "Repentigny",
+            "birthStateProvince" : "QC",
+            "birthCountry" : "CAN",
+            "nationality" : "CAN",
+            "height" : "6' 1\"",
+            "weight" : 177,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 4,
+              "name" : "Philadelphia Flyers",
+              "link" : "/api/v1/teams/4"
+            },
+            "primaryPosition" : {
+              "code" : "G",
+              "name" : "Goalie",
+              "type" : "Goalie",
+              "abbreviation" : "G"
+            },
+            "otherNames" : {
+              "slug" : "j-f-berube-8475234",
+              "lastFirstName" : "Berube, J-F",
+              "firstLastNameRoman" : "J-F Berube"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "667:23",
+                  "ot" : 1,
+                  "shutouts" : 0,
+                  "ties" : 0,
+                  "wins" : 3,
+                  "losses" : 6,
+                  "saves" : 356,
+                  "powerPlaySaves" : 55,
+                  "shortHandedSaves" : 6,
+                  "evenSaves" : 295,
+                  "shortHandedShots" : 7,
+                  "evenShots" : 326,
+                  "powerPlayShots" : 65,
+                  "savePercentage" : 0.894,
+                  "goalAgainstAverage" : 3.78,
+                  "games" : 13,
+                  "gamesStarted" : 10,
+                  "shotsAgainst" : 398,
+                  "goalsAgainst" : 42,
+                  "timeOnIcePerGame" : "51:20",
+                  "powerPlaySavePercentage" : 84.61538461538461,
+                  "shortHandedSavePercentage" : 85.71428571428571,
+                  "evenStrengthSavePercentage" : 90.49079754601227
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "35",
+          "position" : {
+            "code" : "G",
+            "name" : "Goalie",
+            "type" : "Goalie",
+            "abbreviation" : "G"
+          }
+        }, {
+          "person" : {
+            "id" : 8476341,
+            "fullName" : "Anton Forsberg",
+            "link" : "/api/v1/people/8476341",
+            "firstName" : "Anton",
+            "lastName" : "Forsberg",
+            "primaryNumber" : "31",
+            "birthDate" : "1992-11-27",
+            "currentAge" : 26,
+            "birthCity" : "Härnösand",
+            "birthCountry" : "SWE",
+            "nationality" : "SWE",
+            "height" : "6' 3\"",
+            "weight" : 192,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : false,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 12,
+              "name" : "Carolina Hurricanes",
+              "link" : "/api/v1/teams/12"
+            },
+            "primaryPosition" : {
+              "code" : "G",
+              "name" : "Goalie",
+              "type" : "Goalie",
+              "abbreviation" : "G"
+            },
+            "otherNames" : {
+              "slug" : "anton-forsberg-8476341",
+              "lastFirstName" : "Forsberg, Anton",
+              "firstLastNameRoman" : "Anton Forsberg"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "1714:47",
+                  "ot" : 4,
+                  "shutouts" : 0,
+                  "ties" : 0,
+                  "wins" : 10,
+                  "losses" : 16,
+                  "saves" : 836,
+                  "powerPlaySaves" : 96,
+                  "shortHandedSaves" : 35,
+                  "evenSaves" : 705,
+                  "shortHandedShots" : 35,
+                  "evenShots" : 775,
+                  "powerPlayShots" : 111,
+                  "savePercentage" : 0.908,
+                  "goalAgainstAverage" : 2.97,
+                  "games" : 35,
+                  "gamesStarted" : 30,
+                  "shotsAgainst" : 921,
+                  "goalsAgainst" : 85,
+                  "timeOnIcePerGame" : "48:59",
+                  "powerPlaySavePercentage" : 86.48648648648648,
+                  "shortHandedSavePercentage" : 100.0,
+                  "evenStrengthSavePercentage" : 90.96774193548387
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "31",
+          "position" : {
+            "code" : "G",
+            "name" : "Goalie",
+            "type" : "Goalie",
+            "abbreviation" : "G"
+          }
+        }, {
+          "person" : {
+            "id" : 8479138,
+            "fullName" : "Scott Foster",
+            "link" : "/api/v1/people/8479138",
+            "firstName" : "Scott",
+            "lastName" : "Foster",
+            "birthDate" : "1982-01-17",
+            "birthCity" : "Sarnia",
+            "birthStateProvince" : "ON",
+            "birthCountry" : "CAN",
+            "height" : "6' 0\"",
+            "weight" : 185,
+            "active" : false,
+            "rookie" : false,
+            "rosterStatus" : "N",
+            "primaryPosition" : {
+              "code" : "G",
+              "name" : "Goalie",
+              "type" : "Goalie",
+              "abbreviation" : "G"
+            },
+            "otherNames" : {
+              "slug" : "scott-foster-8479138",
+              "lastFirstName" : "Foster, Scott",
+              "firstLastNameRoman" : "Scott Foster"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "14:01",
+                  "ot" : 0,
+                  "shutouts" : 0,
+                  "ties" : 0,
+                  "wins" : 0,
+                  "losses" : 0,
+                  "saves" : 7,
+                  "powerPlaySaves" : 1,
+                  "shortHandedSaves" : 0,
+                  "evenSaves" : 6,
+                  "shortHandedShots" : 0,
+                  "evenShots" : 6,
+                  "powerPlayShots" : 1,
+                  "savePercentage" : 1.0,
+                  "goalAgainstAverage" : 0.0,
+                  "games" : 1,
+                  "gamesStarted" : 0,
+                  "shotsAgainst" : 7,
+                  "goalsAgainst" : 0,
+                  "timeOnIcePerGame" : "14:01",
+                  "powerPlaySavePercentage" : 100.0,
+                  "evenStrengthSavePercentage" : 100.0
+                }
+              } ]
+            } ]
+          },
+          "position" : {
+            "code" : "G",
+            "name" : "Goalie",
+            "type" : "Goalie",
+            "abbreviation" : "G"
+          }
+        }, {
+          "person" : {
+            "id" : 8480420,
+            "fullName" : "Collin Delia",
+            "link" : "/api/v1/people/8480420",
+            "firstName" : "Collin",
+            "lastName" : "Delia",
+            "primaryNumber" : "60",
+            "birthDate" : "1994-06-20",
+            "currentAge" : 25,
+            "birthCity" : "Rancho Cucamonga",
+            "birthStateProvince" : "CA",
+            "birthCountry" : "USA",
+            "nationality" : "USA",
+            "height" : "6' 2\"",
+            "weight" : 208,
+            "active" : true,
+            "alternateCaptain" : false,
+            "captain" : false,
+            "rookie" : true,
+            "shootsCatches" : "L",
+            "rosterStatus" : "Y",
+            "currentTeam" : {
+              "id" : 16,
+              "name" : "Chicago Blackhawks",
+              "link" : "/api/v1/teams/16"
+            },
+            "primaryPosition" : {
+              "code" : "G",
+              "name" : "Goalie",
+              "type" : "Goalie",
+              "abbreviation" : "G"
+            },
+            "otherNames" : {
+              "slug" : "collin-delia-8480420",
+              "lastFirstName" : "Delia, Collin",
+              "firstLastNameRoman" : "Collin Delia"
+            },
+            "stats" : [ {
+              "type" : {
+                "displayName" : "statsSingleSeason"
+              },
+              "splits" : [ {
+                "season" : "20172018",
+                "stat" : {
+                  "timeOnIce" : "105:59",
+                  "ot" : 0,
+                  "shutouts" : 0,
+                  "ties" : 0,
+                  "wins" : 1,
+                  "losses" : 1,
+                  "saves" : 56,
+                  "powerPlaySaves" : 1,
+                  "shortHandedSaves" : 1,
+                  "evenSaves" : 54,
+                  "shortHandedShots" : 1,
+                  "evenShots" : 58,
+                  "powerPlayShots" : 4,
+                  "savePercentage" : 0.889,
+                  "goalAgainstAverage" : 3.96,
+                  "games" : 2,
+                  "gamesStarted" : 2,
+                  "shotsAgainst" : 63,
+                  "goalsAgainst" : 7,
+                  "timeOnIcePerGame" : "52:59",
+                  "powerPlaySavePercentage" : 25.0,
+                  "shortHandedSavePercentage" : 100.0,
+                  "evenStrengthSavePercentage" : 93.10344827586206
+                }
+              } ]
+            } ]
+          },
+          "jerseyNumber" : "60",
+          "position" : {
+            "code" : "G",
+            "name" : "Goalie",
+            "type" : "Goalie",
+            "abbreviation" : "G"
+          }
+        } ],
+        "link" : "/api/v1/teams/16/roster"
+      }
+    },
+    "shortName" : "Chicago",
+    "officialSiteUrl" : "http://www.chicagoblackhawks.com/",
+    "franchiseId" : 11,
+    "active" : true
+  } ]
+}

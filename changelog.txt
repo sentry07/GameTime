@@ -1,0 +1,13 @@
+[ GameTimeX NHL v1.0.15.2 ]
+
+=============================
+ What's new in this version:
+=============================
+Fixed arena names for Arizona and New York Islanders
+
+=================
+ PREVIOUS BUILDS
+=================
+v1.0.15.1
+---------
+First release for 2015-2016 season!

@@ -1,0 +1,67 @@
+Team|Num|Name|GPI|GS|Min|GAA|W|L|OT|SO|SA|GA|SV%|G|A|PIM
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+Anaheim|31|Frederik Andersen|8|8|487|1.60|7|1|0|1|221|13|.941|0|0|0
+Anaheim|36|John Gibson|4|4|237|2.28|2|2|0|1|123|9|.927|0|0|0
+Anaheim|30|Jason LaBarbera|2|2|122|2.46|1|0|1|0|54|5|.907|0|0|0
+Vancouver|30|Ryan Miller|11|11|629|2.19|10|1|0|1|289|23|.920|0|0|0
+Vancouver|31|Eddie Lack|4|3|215|4.19|0|3|0|0|120|15|.875|0|0|0
+Montréal|31|Carey Price|11|11|652|2.94|7|3|1|0|343|32|.907|0|0|2
+Montréal|35|Dustin Tokarski|4|3|209|2.01|2|1|0|0|98|7|.929|0|0|0
+Tampa Bay|30|Ben Bishop|11|10|647|2.41|8|1|1|0|304|26|.914|0|1|0
+Tampa Bay|20|Evgeni Nabokov|3|3|139|3.02|1|2|0|0|55|7|.873|0|0|0
+St. Louis|1|Brian Elliott|8|8|494|2.06|5|2|1|1|212|17|.920|0|1|0
+St. Louis|34|Jake Allen|5|5|299|1.40|4|1|0|2|124|7|.944|0|0|2
+Pittsburgh|29|Marc-Andre Fleury|10|10|604|1.99|8|2|0|3|284|20|.930|0|1|2
+Pittsburgh|1|Thomas Greiss|2|2|124|2.42|1|0|1|0|65|5|.923|0|0|0
+Boston|40|Tuukka Rask|11|11|652|2.48|7|4|0|0|291|27|.907|0|0|0
+Boston|72|Niklas Svedberg|5|4|252|1.67|2|2|0|1|117|7|.940|0|0|0
+Calgary|1|Jonas Hiller|10|10|611|2.16|6|3|1|1|308|22|.929|0|0|0
+Calgary|31|Karri Ramo|5|5|303|2.38|2|2|1|0|139|12|.914|0|0|0
+Nashville|35|Pekka Rinne|11|11|668|1.89|8|2|1|1|310|21|.932|0|0|0
+Nashville|30|Carter Hutton|2|2|123|1.95|0|1|1|0|62|4|.935|0|0|0
+Los Angeles|32|Jonathan Quick|12|12|715|1.93|6|3|3|2|405|23|.943|0|0|12
+Los Angeles|31|Martin Jones|3|2|139|1.73|1|1|0|0|56|4|.929|0|0|0
+San Jose|31|Antti Niemi|10|10|612|2.55|6|3|1|1|317|26|.918|0|0|0
+San Jose|32|Alex Stalock|4|4|243|2.22|1|2|1|1|119|9|.924|0|0|0
+Winnipeg|31|Ondrej Pavelec|13|12|753|2.07|6|4|2|1|337|26|.923|0|0|0
+Winnipeg|34|Michael Hutchinson|3|2|100|1.80|1|1|0|1|55|3|.945|0|0|0
+NY Islanders|41|Jaroslav Halak|8|8|463|3.24|4|4|0|0|245|25|.898|0|0|0
+NY Islanders|30|Chad Johnson|6|5|325|2.95|4|1|0|0|144|16|.889|0|0|0
+Detroit|35|Jimmy Howard|10|10|613|1.96|5|2|3|0|277|20|.928|0|0|0
+Detroit|50|Jonas Gustavsson|3|3|183|2.30|1|1|1|1|76|7|.908|0|0|0
+Ottawa|41|Craig Anderson|7|7|423|1.84|4|2|1|2|249|13|.948|0|0|2
+Ottawa|40|Robin Lehner|5|5|307|2.54|3|1|1|0|177|13|.927|0|1|0
+Chicago|50|Corey Crawford|7|7|430|1.53|4|2|1|1|177|11|.938|0|0|0
+Chicago|33|Scott Darling|3|3|182|1.98|2|1|0|0|90|6|.933|0|0|0
+Chicago|31|Antti Raanta|3|3|177|2.03|1|2|0|1|90|6|.933|0|0|0
+New Jersey|35|Cory Schneider|13|13|743|2.75|6|4|2|0|379|34|.910|0|0|0
+New Jersey|40|Scott Clemmensen|2|0|37|6.49|0|0|0|0|17|4|.765|0|0|0
+New Jersey|1|Keith Kinkaid|1|0|10|6.00|0|1|0|0|4|1|.750|0|0|0
+Philadelphia|35|Steve Mason|8|8|458|2.88|2|4|1|0|248|22|.911|0|1|2
+Philadelphia|29|Ray Emery|6|5|328|2.74|4|1|1|0|177|15|.915|0|0|0
+Toronto|45|Jonathan Bernier|9|8|486|2.59|3|3|2|1|251|21|.916|0|0|0
+Toronto|34|James Reimer|6|5|302|2.58|3|2|0|0|173|13|.925|0|0|2
+Minnesota|35|Darcy Kuemper|9|9|542|1.77|6|3|0|3|206|16|.922|0|0|0
+Minnesota|32|Niklas Backstrom|3|3|179|2.68|1|2|0|0|61|8|.869|0|0|2
+NY Rangers|30|Henrik Lundqvist|10|10|588|2.86|6|3|1|2|283|28|.901|0|0|0
+NY Rangers|33|Cam Talbot|3|2|148|2.84|0|1|1|0|69|7|.899|0|0|0
+Colorado|1|Semyon Varlamov|10|10|589|2.75|2|4|4|1|358|27|.925|0|0|2
+Colorado|20|Reto Berra|5|4|210|2.29|2|0|1|0|112|8|.929|0|0|0
+Colorado|31|Calvin Pickard|2|1|115|3.65|0|2|0|0|63|7|.889|0|0|0
+Dallas|32|Kari Lehtonen|11|11|673|2.94|4|3|4|0|344|33|.904|0|0|2
+Dallas|29|Anders Lindback|2|2|118|4.58|0|2|0|0|60|9|.850|0|0|0
+Florida|1|Roberto Luongo|10|10|571|2.31|4|3|3|1|294|22|.925|0|0|0
+Florida|35|Al Montoya|2|1|102|0.59|0|0|1|0|38|1|.974|0|0|0
+Arizona|41|Mike Smith|9|9|529|3.63|3|6|0|0|267|32|.880|0|1|0
+Arizona|40|Devan Dubnyk|4|3|200|3.30|2|0|1|0|91|11|.879|0|0|0
+Washington|70|Braden Holtby|9|9|495|2.67|3|3|2|1|202|22|.891|0|1|0
+Washington|35|Justin Peters|4|3|237|3.04|1|2|1|0|100|12|.880|0|0|0
+Edmonton|30|Ben Scrivens|11|10|636|3.11|4|6|0|1|312|33|.894|0|0|0
+Edmonton|35|Viktor Fasth|3|3|141|4.68|0|2|1|0|79|11|.861|0|0|0
+Buffalo|1|Jhonas Enroth|8|8|485|3.34|1|6|1|0|293|27|.908|0|0|0
+Buffalo|34|Michal Neuvirth|6|6|369|2.60|2|3|1|0|214|16|.925|0|0|0
+Columbus|72|Sergei Bobrovsky|8|7|448|2.81|4|4|0|0|228|21|.908|0|0|0
+Columbus|30|Curtis McElhinney|4|4|206|4.08|0|3|0|0|114|14|.877|0|0|0
+Columbus|31|Anton Forsberg|1|1|59|3.05|0|1|0|0|29|3|.897|0|0|0
+Carolina|30|Cam Ward|7|7|422|2.84|3|3|1|1|176|20|.886|0|0|0
+Carolina|31|Anton Khudobin|4|4|241|3.24|0|3|1|0|119|13|.891|0|0|0

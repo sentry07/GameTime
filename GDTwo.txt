@@ -1,0 +1,82 @@
+#{away:redditicon}{away:city} {away:short} ({away:stats:w}-{away:stats:l}-{away:stats:ot}) @ {home:redditicon}{home:city} {home:short} ({home:stats:w}-{home:stats:l}-{home:stats:ot})
+{date:dayofweek} {date:mmddyyyy}, {gametime:cst}CT @ {home:arena}, {home:arenaplace}
+
+#Game Stats
+
+| Period | {away:redditicon} | {home:redditicon} | Details |
+| :--: | :--: | :--: | :--: |
+| 1 | 0 | 0 |  |
+| 2 | 0 | 0 |  |
+| 3 | 0 | 0 |  |
+| **Final** | 0 | 0 |  |
+
+|#|Per|Time|Team|Player|PIM|Penalty|
+|:--: | :--: | :--: | :--: | :--:  | :--:  | :--: |
+|  |  |  |  |  |  |  |
+
+|  | S | H | Fow | GA | TA | BS |
+| :--: | :--: | :--: | :--: | :--:  | :--:  | :--: |
+| {away:redditicon} | 0 | 0 | 0 | 0 | 0 | 0 |
+| {home:redditicon} | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+# Watch, Listen and Talk:
+
+| Platform | {away:redditicon} | {home:redditicon}  |
+| :--: | :--: | :--: |
+| Radio | CHANGE | CHANGE  |
+| TV | {game:broadcast} |
+| Free Streams | [VipBox](http://www.vipboxonline.eu/sports/ice-hockey.html) | [FirstRow](http://firstrowus1.eu/sport/ice-hockey.html) |
+| VLC Streams  | {away:streams:1600,3000} | {home:streams:1600,3000} |
+| Paid Streams | [HockeyStreams](http://www4.hockeystreams.com/) | [GameCenter](http://gamecenterlive.nhl.com) |
+| Comments | [RedditStream]() |
+
+
+## Projected Lineups:
+
+|{away:redditicon}LW | {away:redditicon}C | {away:redditicon}RW | {home:redditicon}LW | {home:redditicon}C | {home:redditicon}RW |
+| :--: | :--: | :--: | :--: | :--: | :--:
+| {away:oleft1} | {away:ocenter1} | {away:oright1} | {home:oleft1} | {home:ocenter1} | {home:oright1} |
+| {away:oleft2} | {away:ocenter2} | {away:oright2} | {home:oleft2} | {home:ocenter2} | {home:oright2} |
+| {away:oleft3} | {away:ocenter3} | {away:oright3} | {home:oleft3} | {home:ocenter3} | {home:oright3} |
+| {away:oleft4} | {away:ocenter4} | {away:oright4} | {home:oleft4} | {home:ocenter4} | {home:oright4} |
+
+| {away:redditicon}D | {away:redditicon}D | {home:redditicon}D | {home:redditicon}D |
+| :--: | :--: | :--: | :--: |
+| {away:dleft1} | {away:dright1} | {home:dleft1} | {home:dright1} |
+| {away:dleft2} | {away:dright2} | {home:dleft2} | {home:dright2} |
+| {away:dleft3} | {away:dright3} | {home:dleft3} | {home:dright3} |
+
+| {away:redditicon}G | {home:redditicon}G |
+| :--: | :--: | :--:
+| {away:goalie1} | {home:goalie1} |
+
+
+## Team Stats
+ 
+|Team|GP|W|L|OT|G/G|GA/G|PP%|PK%|S/G|SA/G|  
+:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+|{away:redditicon}|{away:stats:gp}|{away:stats:w}|{away:stats:l}|{away:stats:ot}|{away:stats:g/g}|{away:stats:ga/g}|{away:stats:pp%}|{away:stats:pk%}|{away:stats:s/g}|{away:stats:sa/g}|
+|{home:redditicon}|{home:stats:gp}|{home:stats:w}|{home:stats:l}|{home:stats:ot}|{home:stats:g/g}|{home:stats:ga/g}|{home:stats:pp%}|{home:stats:pk%}|{home:stats:s/g}|{home:stats:sa/g}|
+ 
+## Team Leaders
+ 
+{away:players:redditicon,Num,Name,Pos,GP,P:limit=3}
+{home:players:redditicon,Num,Name,Pos,GP,P:noheader,limit=3}
+ 
+## Goalie Breakdown:
+ 
+{away:goalies:redditicon,Name,GPI,GS,W,L,OT,SO,GAA,SV%:limit=2}
+{home:goalies:redditicon,Name,GPI,GS,W,L,OT,SO,GAA,SV%:noheader,limit=2}
+
+
+## Thread Notes:
+
+* Discuss whatever you wish, you can trash talk, but keep it civil.
+* Turning comment sort to 'new' will help you see the newest posts.
+* Feel free to message me with any errors or suggestions for future threads.
+* Credit to /r/hockey users for the overall template of this GDT.
+
+## Subscribe:
+
+**{home:redditname}** - **{away:redditname}**

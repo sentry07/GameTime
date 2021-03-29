@@ -1,0 +1,283 @@
+// ---------------------------------------------------------------------------------------------------------------------
+// Date and Time Tags
+// ---------------------------------------------------------------------------------------------------------------------
+{date:dayofweek}
+{date:mmddyyyy}		- US Format Date
+{date:ddmmyyyy}		- Everybody else format date
+{gametime:pst}
+{gametime:mst}
+{gametime:cst}
+{gametime:est}
+{gametime:ast}
+
+{gametime:pt}	- These should be used instead of the ones above, but I'll leave them in for now
+{gametime:mt}
+{gametime:ct}
+{gametime:et}
+{gametime:at}
+
+{gametime:local} = Time the game starts in home team's location
+{gametime:timezone} = Home team's time zone
+
+// ---------------------------------------------------------------------------------------------------------------------
+// Game Information Tags
+// ---------------------------------------------------------------------------------------------------------------------
+{game:broadcast} = Channels the game will be broadcast on
+{game:nhlgameid} = The game ID from NHL.com's website
+
+// ---------------------------------------------------------------------------------------------------------------------
+// League Tags
+// ---------------------------------------------------------------------------------------------------------------------
+{league:rankings}
+
+The above item has the option of selecting which stats you want to show and some additional formatting options
+Team Rankings fields:
+	Normal: Rank,Team,GP,W,L,OT,P,P%,G/G,GA/G,5-5 F/A,PP%,PK%,S/G,SA/G,Sc 1%,Tr 1st%,Ld 1%,Ld 2%,OS%,OSB%,FO%
+	Special: nameabbr, redditname, redditicon and redditabbr
+
+Example with fields:
+{league:rankings:Rank,redditicon,Team,W,L,OT,P,PP%,PK%,FO%}
+
+
+// ---------------------------------------------------------------------------------------------------------------------
+// Schedule Tags
+// ---------------------------------------------------------------------------------------------------------------------
+{schedule:versus} = Searches the full schedule and lists all games 
+The above item has the option of selecting which fields you want to show and some additional formatting options
+Scheduled Games fields:
+	Normal: Date, Away, Home, Time, Network/Result
+	Options: limit=#, (past|future), icons
+
+	*Past or future may be used, but not both. For all games, leave out both options.
+	
+Examples:
+{schedule:versus:Date,Network/Result:past}    - This shows all previous games and their outcomes
+{schedule:versus:limit=5,future,icons}		- This shows the next 5 meetings and shows the teams as icons
+
+
+{schedule:home} = Searches the full schedule and lists all games 
+The above item has the option of selecting which fields you want to show and some additional formatting options
+Scheduled Games fields:
+	Normal: Date, Away, Home, Time, Network/Result
+	Options: limit=#, (past|future), icons
+
+	*Past or future may be used, but not both. For all games, leave out both options.
+	
+Examples:
+{schedule:home:Date,Network/Result:past}    - This shows all previous games and their outcomes
+{schedule:home:limit=5,future,icons}		- This shows the next 5 games and shows the teams as icons
+
+
+{schedule:away} = Searches the full schedule and lists all games 
+The above item has the option of selecting which fields you want to show and some additional formatting options
+Scheduled Games fields:
+	Normal: Date, Away, Home, Time, Network/Result
+	Options: limit=#, (past|future), icons
+
+	*Past or future may be used, but not both. For all games, leave out both options.
+	
+Examples:
+{schedule:away:Date,Network/Result:past}    - This shows all previous games and their outcomes
+{schedule:away:limit=5,future,icons}		- This shows the next 5 games and shows the teams as icons
+
+// ---------------------------------------------------------------------------------------------------------------------
+// Home Team Tags
+// ---------------------------------------------------------------------------------------------------------------------
+{home:arena} = Rogers Arena
+{home:arenaplace} = Vancouver, BC, CAN
+
+{home:long} = Vancouver Canucks
+{home:short} = Canucks
+{home:city} = Vancouver
+{home:nameabbr} = VAN
+
+{home:reddit} = /r/Canucks
+{home:redditname} = [Canucks](/r/canucks)
+{home:redditicon} = [](/r/canucks)
+{home:redditabbr} = [VAN](/r/canucks)
+{home:redditiconlarge} = [](/canuckslogo) ** NEW
+
+{home:radio} = Home team's radio link
+{home:streams} = VLC Stream links
+*NEW - The streams tag has optional fields for selecting which bitrates to show
+Streams fields:
+	Bitrates: 400, 800, 1600, 3000, 4500
+	
+Example:
+{home:streams:800,3000}
+
+-- Team Stats
+{home:stats:rank}
+{home:stats:gp}
+{home:stats:w}
+{home:stats:l}
+{home:stats:ot}
+{home:stats:p}
+{home:stats:row}
+{home:stats:hrow}
+{home:stats:rrow}
+{home:stats:p%}
+{home:stats:g/g}
+{home:stats:ga/g}
+{home:stats:5-5f/a}
+{home:stats:pp%}
+{home:stats:pk%}
+{home:stats:s/g}
+{home:stats:sa/g}
+{home:stats:sc1%}
+{home:stats:tr1%}
+{home:stats:ld1%}
+{home:stats:ld2%}
+{home:stats:os%}
+{home:stats:osb%}
+{home:stats:fo%}
+
+-- Player Table Generators
+{home:players}
+{home:goalies}
+
+Both of the items above have the option of selecting which stats you want to show and some additional formatting options
+Player stats fields:
+	Normal: Num, Pos, Name, GP, G, A, P, +/-, PIM, PP, SH, GW, S, S%
+	Special: nameabbr, redditname, redditicon and redditabbr
+Goalie stats fields:
+	Normal: Num, Name, GPI, GS, Min, GAA, W, L, OT, SO, SA, GA, SV%, G, A, PIM
+	Special: nameabbr, redditname, redditicon and redditabbr
+Current options are:
+	noheader - Don't add a table header, so that it can be part of another table
+	limit - Limits the number of players in the table (example: limit=3)
+
+Examples with fields:
+{home:players:redditicon,Num,Name,Pos,GP,P:limit=3}
+{away:players:redditicon,Num,Name,Pos,GP,P:noheader,limit=3}
+
+{home:goalies:redditicon,Num,Name,GP,W,L,SO,SV%:limit=2}
+{away:goalies:redditicon,Num,Name,GP,W,L,SO,SV%:noheader,limit=2}
+
+-- Injury Table Generators
+{home:players}
+
+The item above have the option of selecting which stats you want to show and some additional formatting options
+Injury fields:
+	Normal: Player, Date, Status, Injury
+	Special: nameabbr, redditname, redditicon and redditabbr
+Current options are:
+	noheader - Don't add a table header, so that it can be part of another table
+
+Examples with fields:
+{home:injuries:redditicon,Player,Injury}
+{away:injuries:redditicon,Player,Injury:noheader}
+
+
+// ---------------------------------------------------------------------------------------------------------------------
+// Home Team Variables From User Interface
+// ---------------------------------------------------------------------------------------------------------------------
+{home:goalie1}
+{home:goalie2}
+{home:oleft1}
+{home:oleft2}
+{home:oleft3}
+{home:oleft4}
+{home:ocenter1}
+{home:ocenter2}
+{home:ocenter3}
+{home:ocenter4}
+{home:oright1}
+{home:oright2}
+{home:oright3}
+{home:oright4}
+{home:dleft1}
+{home:dleft2}
+{home:dleft3}
+{home:dright1}
+{home:dright2}
+{home:dright3}
+
+
+// ---------------------------------------------------------------------------------------------------------------------
+// Away Team Tags
+// ---------------------------------------------------------------------------------------------------------------------
+{away:long}
+{away:short}
+{away:city}
+{away:nameabbr}
+{away:reddit}
+{away:redditname}
+{away:redditicon}
+{away:redditabbr}
+{away:redditiconlarge} ** NEW
+
+{away:radio} = Away team's radio link
+{away:streams}
+*NEW - The streams tag has optional fields for selecting which bitrates to show
+Streams fields:
+	Bitrates: 400, 800, 1600, 3000, 4500
+	
+Example:
+{away:streams:800,1600,3000}
+
+-- Team Stats
+{away:stats:rank}
+{away:stats:gp}
+{away:stats:w}
+{away:stats:l}
+{away:stats:ot}
+{away:stats:p}
+{away:stats:row}
+{away:stats:hrow}
+{away:stats:rrow}
+{away:stats:p%}
+{away:stats:g/g}
+{away:stats:ga/g}
+{away:stats:5-5f/a}
+{away:stats:pp%}
+{away:stats:pk%}
+{away:stats:s/g}
+{away:stats:sa/g}
+{away:stats:sc1%}
+{away:stats:tr1%}
+{away:stats:ld1%}
+{away:stats:ld2%}
+{away:stats:os%}
+{away:stats:osb%}
+{away:stats:fo%}
+
+-- Player Table Generators
+{away:players}
+{away:goalies}
+
+Both of the items above have the option of selecting which stats you want to show and some additional formatting options
+Player stats fields:
+	Normal: Num, Pos, Name, GP, G, A, P, +/-, PIM, PP, SH, GW, S, S%
+	Special: nameabbr, redditname, redditicon and redditabbr
+Goalie stats fields:
+	Normal: Num, Name, GPI, GS, Min, GAA, W, L, OT, SO, SA, GA, SV%, G, A, PIM
+	Special: nameabbr, redditname, redditicon and redditabbr
+Current options are:
+	noheader - Don't add a table header, so that it can be part of another table
+	limit - Limits the number of players in the table (example: limit=3)
+
+
+// ---------------------------------------------------------------------------------------------------------------------
+// Away Team Variables From User Interface
+// ---------------------------------------------------------------------------------------------------------------------
+{away:goalie1}
+{away:goalie2}
+{away:oleft1}
+{away:oleft2}
+{away:oleft3}
+{away:oleft4}
+{away:ocenter1}
+{away:ocenter2}
+{away:ocenter3}
+{away:ocenter4}
+{away:oright1}
+{away:oright2}
+{away:oright3}
+{away:oright4}
+{away:dleft1}
+{away:dleft2}
+{away:dleft3}
+{away:dright1}
+{away:dright2}
+{away:dright3}
